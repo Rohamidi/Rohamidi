@@ -33,7 +33,7 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 40px;"> <!-- Increased gap to 40px -->
+  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
     <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" />
     <img height="120" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
   </div>
@@ -44,11 +44,12 @@
 ### ⏱ Time Coding & Favorite Languages
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 40px;"> <!-- Increased gap to 40px -->
+  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
     <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
     <img height="120" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
   </div>
 </p>
+
 
 
 
