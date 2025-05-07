@@ -1,11 +1,12 @@
 <!-- DYNAMIC HEADER SECTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Roham+Hamidi!;STEM+Leader+%7C+AI+Dreamer+%7C+Tech+Savvy;Coding+My+Way+to+the+Future!;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Roham+Hamidi!;STEM+Leader+%7C+AI+Dreamer+%7C+Tech+Savvy;Coding+My+Way+to+the+Future!;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
