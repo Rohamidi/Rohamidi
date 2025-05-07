@@ -5,24 +5,10 @@
 
 ---
 
-<!-- Smooth Color Animation -->
-<div align="center" style="width: 100%; height: 200px; background: linear-gradient(45deg, #ff7e5f, #feb47b, #ff6a00, #ff6347); background-size: 400% 400%; animation: gradient 15s ease infinite;">
-  <h2 style="padding-top: 80px; color: white; font-size: 2rem;">Smooth Gradient Animation in Action!</h2>
-</div>
-
-<style>
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
+<!-- Smooth Gradient Animation GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN3cmZtZmN1aHIxdWtwb3U4eGZvaTJ5c2llb2dlN2ltM2RpYTUxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" alt="Smooth Gradient Animation" />
+</p>
 ---
 
 ### 👋 Welcome to My Tech Universe
