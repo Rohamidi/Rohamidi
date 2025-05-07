@@ -5,7 +5,7 @@
 
 <!-- GRID COLOR ANIMATION TOP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohamhamidi/rohamhamidi/output/grid-snake.svg" alt="animated grid" />
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/grid-snake.svg" alt="animated grid" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohamhamidi&show_icons=true&theme=transparent&hide_title=true&title_color=00B89F&icon_color=00B89F" />
-  <img height="170" src="https://streak-stats.demolab.com?user=rohamhamidi&theme=transparent&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=transparent&hide_title=true&title_color=00B89F&icon_color=00B89F" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Rohamidi&theme=transparent&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ### ⏱ Time Coding & Favorite Languages
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohamhamidi&layout=compact&theme=transparent&title_color=00B89F" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rohamhamidi&theme=transparent&title_color=00B89F" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=transparent&title_color=00B89F" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&theme=transparent&title_color=00B89F" />
 </p>
 
 ---
@@ -53,18 +53,18 @@
 <!-- 3D PROFILE CARD -->
 <p align="center">
   <a href="https://github.com/rohamhamidi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohamhamidi&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=github_dark" />
   </a>
 </p>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://github.com/rohamhamidi/rohamhamidi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Rohamidi/Rohamidi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <!-- GRID COLOR ANIMATION BOTTOM -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohamhamidi/rohamhamidi/output/grid-snake.svg" alt="animated grid bottom" />
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/grid-snake.svg" alt="animated grid bottom" />
 </p>
 
 ---
