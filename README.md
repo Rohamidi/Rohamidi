@@ -33,12 +33,24 @@ I lead innovation in my school’s tech initiatives and love fusing **code + cre
 
 ---
 
-## 🚧 Projects In Progress
+## 🎧 Currently Vibing To
 
 <p align="center">
-  <a href="https://github.com/Rohamidi/stem-smart-city">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohamidi&repo=stem-smart-city&theme=react&border_radius=20" />
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mtvdzebm5nv4yffhl5sr2vqkau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
+</p>
+
+---
+
+## 🕹️ Fun GitHub Widgets
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=discord&no-frame=true&row=1&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rohamidi&theme=react-dark&hide_border=true" />
 </p>
 
 ---
