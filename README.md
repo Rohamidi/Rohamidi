@@ -39,15 +39,6 @@
     <img height="200" width="400" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F&border_radius=15" style="border-radius: 15px;" />
   </div>
 </p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements" />
-</p>
-
 ---
 
 ### ⏱ Time Coding & Favorite Languages
@@ -57,6 +48,14 @@
     <img width="400" style="height: 120px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
     <img width="400" style="height: 120px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
   </div>
+</p>
+
+
+---
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements" />
 </p>
 
 ---
