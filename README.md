@@ -59,7 +59,7 @@
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://github.com/Rohamidi/Rohamidi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+ <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
 </p>
 
 <!-- GRID COLOR ANIMATION BOTTOM -->
