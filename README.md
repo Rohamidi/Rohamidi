@@ -5,10 +5,10 @@
 
 ---
 
-<!-- Smooth Gradient Animation GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN3cmZtZmN1aHIxdWtwb3U4eGZvaTJ5c2llb2dlN2ltM2RpYTUxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" alt="Smooth Gradient Animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Gradient" width="100%" />
 </p>
+
 ---
 
 ### 👋 Welcome to My Tech Universe
