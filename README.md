@@ -41,9 +41,13 @@
 
 ### ⏱ Time Coding & Favorite Languages
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=transparent&title_color=00B89F" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=transparent&title_color=00B89F&border_radius=15" />
+<p align="center">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=transparent&title_color=00B89F" />
+  </div>
+  <div style="display: inline-block; margin-left: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=transparent&title_color=00B89F&border_radius=15" />
+  </div>
 </p>
 
 
