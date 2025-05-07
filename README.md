@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER SECTION -->
 
-![reversal](https://capsule-render.vercel.app/api?type=rect\&text=I'm%20Roham\&fontAlign=30\&fontSize=30\&desc=And%20I'm%20Here%20For%20A%20Journey!\&descAlign=60\&descAlignY=50\&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=I'm%20Roham&fontAlign=30&fontSize=30&desc=And%20I'm%20Here%20For%20A%20Journey!&descAlign=60&descAlignY=50&theme=radical)
 
 ---
 
@@ -40,7 +40,13 @@
   </div>
 </p>
 
+---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements" />
+</p>
 
 ---
 
