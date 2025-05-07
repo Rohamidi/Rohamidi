@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Gradient" width="100%" />
+  [<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Gradient" width="100%" />]
 </p>
 
 ---
