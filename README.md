@@ -1,5 +1,8 @@
 <!-- DYNAMIC HEADER SECTION -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&gradient=1" />
+</p>
+
 
 ---
 
