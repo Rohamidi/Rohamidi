@@ -46,9 +46,9 @@
 ### ⏱ Time Coding & Favorite Languages
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-top: 20px;">
-    <img style="height: 120px; width: auto; margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
-    <img style="height: 120px; width: auto; margin-left: 30px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
+    <img style="height: 120px; width: auto; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
+    <img style="height: 120px; width: auto; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
   </div>
 </p>
 
