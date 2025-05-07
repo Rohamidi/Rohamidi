@@ -26,7 +26,7 @@ I'm **Roham Hamidi**, a STEM-driven high schooler based in **Tbilisi**, original
 
 <p align="center">
   <a href="https://github.com/rohamhamidi/stem-smart-city">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohamhamidi&repo=stem-smart-city&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohamidi&repo=stem-smart-city&theme=react" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@ I'm **Roham Hamidi**, a STEM-driven high schooler based in **Tbilisi**, original
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohamhamidi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohamhamidi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohamidi&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌐 Connect With Me
@@ -46,4 +46,4 @@ I'm **Roham Hamidi**, a STEM-driven high schooler based in **Tbilisi**, original
   <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/telegram-Chat-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rohamhamidi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rohamidi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
