@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
+<p>
   <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
     <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" />
     <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
