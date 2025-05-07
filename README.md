@@ -45,8 +45,8 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
   </div>
 </p>
 
