@@ -5,7 +5,7 @@
 
 <!-- GRID COLOR ANIMATION TOP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/grid-snake.svg" alt="animated grid" />
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake animation" />
 </p>
 
 ---
