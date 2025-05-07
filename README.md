@@ -34,10 +34,10 @@
 
 <p align="center">
   <div style="display: inline-block; margin-right: 10px;">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=transparent&hide_title=true&title_color=00B89F&icon_color=00B89F" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" />
   </div>
   <div style="display: inline-block; margin-left: 10px;">
-    <img height="120" src="https://streak-stats.demolab.com?user=Rohamidi&theme=transparent&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
+    <img height="120" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
   </div>
 </p>
 
@@ -47,12 +47,13 @@
 
 <p align="center">
   <div style="display: inline-block; margin-right: 10px;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=transparent&title_color=00B89F" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
   </div>
   <div style="display: inline-block; margin-left: 10px;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=transparent&title_color=00B89F&border_radius=15" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
   </div>
 </p>
+
 
 
 
