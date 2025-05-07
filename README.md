@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Roham+Hamidi!;STEM+Leader+%7C+AI+Dreamer+%7C+Tech+Savvy;Coding+My+Way+to+the+Future!;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohamidi!;Future+AI+Engineer+in+the+making;Coder.+Dreamer.+Builder." alt="Typing SVG" />
-</h1>
 ---
 
 <!-- Smooth Color Animation -->
