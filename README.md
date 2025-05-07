@@ -3,10 +3,34 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Roham+Hamidi!;STEM+Leader+%7C+AI+Dreamer+%7C+Tech+Savvy;Coding+My+Way+to+the+Future!;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- GRID COLOR ANIMATION TOP -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohamidi!;Future+AI+Engineer+in+the+making;Coder.+Dreamer.+Builder." alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake animation" />
+  <img src="https://github.com/Rohamidi/Rohamidi/blob/main/assets/banner.gif" alt="Banner" width="100%" />
 </p>
+
+---
+
+<!-- Smooth Color Animation -->
+<div align="center" style="width: 100%; height: 200px; background: linear-gradient(45deg, #ff7e5f, #feb47b, #ff6a00, #ff6347); background-size: 400% 400%; animation: gradient 15s ease infinite;">
+  <h2 style="padding-top: 80px; color: white; font-size: 2rem;">Smooth Gradient Animation in Action!</h2>
+</div>
+
+<style>
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
 
 ---
 
