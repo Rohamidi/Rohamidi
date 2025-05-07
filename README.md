@@ -1,100 +1,77 @@
-<h1 align="center">    
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohamidi!;Future+AI+Engineer+in+the+making;Coder.+Dreamer.+Builder." alt="Typing SVG" />    
-</h1>
-
+<!-- DYNAMIC HEADER SECTION -->
 <p align="center">
-  <img src="https://github.com/Rohamidi/Rohamidi/blob/main/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Roham+Hamidi!;STEM+Leader+%7C+AI+Dreamer+%7C+Tech+Savvy;Coding+My+Way+to+the+Future!;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212079190-b41c727c-5786-4994-a03f-19f2ba4c7ddc.gif" width="600px" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm **Roham Hamidi**, a STEM-driven high schooler based in **Tbilisi**, originally from **Iran**.  
-I lead innovation in my school’s tech initiatives and love fusing **code + creativity** into future-proof solutions.
-
-- 🔭 Currently building a **smart city prototype** using Arduino  
-- 🧠 Learning: `Python`, `Ethical Hacking`, `Cryptography`  
-- ⚙️ Tools: Notion, VS Code, GitHub, Arduino IDE, Figma  
-- 🎯 Ambition: Become an **AI & Machine Learning engineer** in the USA  
-- ✨ Motto: “*Think big. Build boldly.*”
-
----
-
-## 🧰 Tech Stack
-
+<!-- GRID COLOR ANIMATION TOP -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,arduino,figma,git,linux,github,vscode" />
+  <img src="https://raw.githubusercontent.com/rohamhamidi/rohamhamidi/output/grid-snake.svg" alt="animated grid" />
 </p>
 
 ---
 
-## 🎧 Currently Vibing To
+### 👋 Welcome to My Tech Universe
+
+🧠 Young innovator passionate about **AI, Machine Learning, Cybersecurity, and Python**  
+🚀 Leader of a national STEM project, building smart cities using **Arduino & sensors**  
+📍 Living in Tbilisi, originally from Iran 🇮🇷  
+🔐 Student at the **Scientific Cybersecurity Association of Georgia**, studying Python & Cryptography  
+💻 Devoted to shaping the future of tech with clean code and creative thinking  
+
+---
+
+### 🛠 Tech Stack I’m Building With
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=00B89F)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=00B89F)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=00B89F)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=00B89F)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=00B89F)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=00B89F)
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <a href="https://spotify.com" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mtvdzebm5nv4yffhl5sr2vqkau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohamhamidi&show_icons=true&theme=transparent&hide_title=true&title_color=00B89F&icon_color=00B89F" />
+  <img height="170" src="https://streak-stats.demolab.com?user=rohamhamidi&theme=transparent&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
+</p>
+
+---
+
+### ⏱ Time Coding & Favorite Languages
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohamhamidi&layout=compact&theme=transparent&title_color=00B89F" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rohamhamidi&theme=transparent&title_color=00B89F" />
+</p>
+
+---
+
+### 🧬 Fun & Interactive
+
+<!-- 3D PROFILE CARD -->
+<p align="center">
+  <a href="https://github.com/rohamhamidi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohamhamidi&theme=github_dark" />
   </a>
 </p>
 
----
-
-## 🕹️ Fun GitHub Widgets
-
+<!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=discord&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github.com/rohamhamidi/rohamhamidi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<!-- GRID COLOR ANIMATION BOTTOM -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rohamidi&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohamidi&theme=tokyonight&hide_border=true&border_radius=20" />
+  <img src="https://raw.githubusercontent.com/rohamhamidi/rohamhamidi/output/grid-snake.svg" alt="animated grid bottom" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
+### 📬 Let’s Connect
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/email-Connect-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/linkedin-RohamHamidi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/telegram-Chat-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+scrolling+down!" alt="Thanks for scrolling" />
-</p>
-
-<!-- Hides the default GitHub contribution chart at the bottom -->
-<br><br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN3cmZtZmN1aHIxdWtwb3U4eGZvaTJ5c2llb2dlN2ltM2RpYTUxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" width="100px" />
+  <a href="mailto:rohamhamidi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-00B89F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rohamhamidi"><img src="https://img.shields.io/badge/LinkedIn-Roham_Hamidi-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/rohamhamidi"><img src="https://img.shields.io/badge/Telegram-@rohamhamidi-00B89F?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
