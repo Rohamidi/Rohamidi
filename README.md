@@ -91,3 +91,9 @@ Hide default contribution graph
 
 ![GitHub Graph](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)
 -->
+
+<!-- Push down content to hide GitHub's auto graph -->
+<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN3cmZtZmN1aHIxdWtwb3U4eGZvaTJ5c2llb2dlN2ltM2RpYTUxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" width="100px" />
+</p>
