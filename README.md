@@ -51,7 +51,7 @@ I lead innovation in my school’s tech initiatives and love fusing **code + cre
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
 </p>
 
 > To activate this, you'll need a GitHub Actions workflow. Let me know if you'd like me to generate that file too!
