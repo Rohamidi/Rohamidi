@@ -54,8 +54,6 @@ I lead innovation in my school’s tech initiatives and love fusing **code + cre
   <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
 </p>
 
-> To activate this, you'll need a GitHub Actions workflow. Let me know if you'd like me to generate that file too!
-
 ---
 
 ## 🌐 Connect With Me
@@ -79,4 +77,17 @@ Hide default contribution graph
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)
+-->
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+scrolling+down!" alt="Thanks for scrolling" />
+</p>
+
+<!-- Hiding the default GitHub contribution chart -->
+<!-- 
+## Contributions
+
+![GitHub Graph](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)
 -->
