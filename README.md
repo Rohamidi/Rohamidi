@@ -32,10 +32,12 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p>
+<p align="center">
   <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" />
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
+    <!-- GitHub Stats with New Service -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=radical" />
+    <!-- Streak Stats with New Service -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohamidi&theme=radical" />
   </div>
 </p>
 
@@ -45,8 +47,10 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px; margin-top: 20px;">
+    <!-- Coding Time Stats from CoderStreak -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://coderstreak.vercel.app/api?user=Rohamidi&theme=radical" />
+    <!-- Top Languages with GitHub API -->
     <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=radical&title_color=ffffff" />
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=radical&title_color=ffffff" />
   </div>
 </p>
 
