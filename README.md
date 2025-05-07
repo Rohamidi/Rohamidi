@@ -34,11 +34,12 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 140px; align-items: center;">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" style="border: 5px solid red;" />
-    <img height="120" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
+  <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&icon_color=00B89F&title_color=ffffff" style="border-radius: 15px; border: 3px solid #00B89F;" />
+    <img height="150" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F&border_radius=15" style="border-radius: 15px;" />
   </div>
 </p>
+
 
 ---
 
