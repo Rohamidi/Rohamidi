@@ -34,10 +34,10 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
-    <!-- GitHub Stats with New Service -->
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=radical" />
-    <!-- Streak Stats with New Service -->
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohamidi&theme=radical" />
+    <!-- CodersRank Stats -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://cr-skills.vercel.app/api?username=Rohamidi&theme=radical" />
+    <!-- Profile Card from Readme Stats -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://readmestats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical" />
   </div>
 </p>
 
@@ -47,16 +47,12 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px; margin-top: 20px;">
-    <!-- Coding Time Stats from CoderStreak -->
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://coderstreak.vercel.app/api?user=Rohamidi&theme=radical" />
-    <!-- Top Languages with GitHub API -->
-    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=radical&title_color=ffffff" />
+    <!-- CodersRank Streak Widget -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://cr-streak.vercel.app/api?username=Rohamidi&theme=radical" />
+    <!-- Readme Stats Language Widget -->
+    <img style="height: 120px; width: auto; border-radius: 10px; border: none;" src="https://readmestats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=radical&title_color=ffffff" />
   </div>
 </p>
-
-
-
-
 
 
 
