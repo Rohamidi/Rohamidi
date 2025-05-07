@@ -35,7 +35,7 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 140px; align-items: center;">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&title_color=ffffff&icon_color=00B89F" style="border: 5px solid red;" />
     <img height="120" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=ffffff&fire=00B89F&currStreakLabel=00B89F" />
   </div>
 </p>
