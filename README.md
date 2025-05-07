@@ -9,15 +9,6 @@
 </p>
 
 ---
-### 👋 Welcome to My Tech Universe
-
-🧠 Young innovator passionate about **AI, Machine Learning, Cybersecurity, and Python**<br>
-🚀 Leader of a national STEM project, building smart cities using **Arduino & sensors**<br>
-📍 Living in Tbilisi, originally from Iran 🇮🇷<br>
-🔐 Student at the **Scientific Cybersecurity Association of Georgia**, studying Python & Cryptography<br>
-💻 Devoted to shaping the future of tech with clean code and creative thinking
-
-
 
 ---
 
