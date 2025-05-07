@@ -74,6 +74,9 @@ Hide default contribution graph
 [![Rohamidi's github stats](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)](https://github.com/Rohamidi)
 
 
+
+<!--
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)
+-->
