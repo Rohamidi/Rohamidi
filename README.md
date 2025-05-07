@@ -1,9 +1,5 @@
 <!-- DYNAMIC HEADER SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=bluer&height=300&color=gradient&text=Welcome!%20to%20my%20Profile&fontSize=90&textBg=true&strokeWidth=2&strokeColor=0a183f&animation=fadeIn&reverse=true&fontColor=ffffff&section=header" />
-</p>
-
-
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 ---
 
