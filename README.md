@@ -72,3 +72,9 @@ I lead innovation in my school’s tech initiatives and love fusing **code + cre
 Hide default contribution graph 
 ## My GitHub Stats
 [![Rohamidi's github stats](https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true)](https://github.com/Rohamidi)
+
+<!--
+## Contribution Activity (auto-generated)
+
+![Contribution Activity](https://ghchart.rshah.org/000000/Rohamidi)
+-->
