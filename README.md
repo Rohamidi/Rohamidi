@@ -35,10 +35,24 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 80px; align-items: center;">
-    <img height="150" width="500" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&icon_color=00B89F&title_color=ffffff" style="border-radius: 15px; border: 3px solid #00B89F;" />
-    <img height="150" width="500" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F&border_radius=15" style="border-radius: 15px;" />
+    <img height="150" width="150" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&icon_color=00B89F&title_color=ffffff" style="border-radius: 15px; border: 3px solid #00B89F;" />
+    <img height="200" width="250" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F&border_radius=15" style="border-radius: 15px;" />
   </div>
 </p>
+
+
+
+---
+
+### ⏱ Time Coding & Favorite Languages
+
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
+    <img width="500" style="height: 120px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=tokyonight&title_color=ffffff" />
+    <img width="500" style="height: 120px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=15" />
+  </div>
+</p>
+
 ---
 
 ### 🧬 My Contributions
