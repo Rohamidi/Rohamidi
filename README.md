@@ -40,9 +40,6 @@
   </div>
 </p>
 
----
-
-### ⏱ Time Coding & Favorite Languages
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
