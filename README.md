@@ -81,7 +81,7 @@
 ### 📬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:rohamhamidi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-00B89F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rohamhamidi"><img src="https://img.shields.io/badge/LinkedIn-Roham_Hamidi-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/rohamhamidi"><img src="https://img.shields.io/badge/Telegram-@rohamhamidi-00B89F?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:rohamidi.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-00B89F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohamidi/"><img src="https://img.shields.io/badge/LinkedIn-Roham_Hamidi-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Rohamidi"><img src="https://img.shields.io/badge/Telegram-@rohamhamidi-00B89F?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
