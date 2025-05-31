@@ -76,10 +76,6 @@
 
 <!-- GRID COLOR ANIMATION BOTTOM -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/grid-snake.svg" alt="animated grid bottom" />
-</p>
-
 ---
 
 ### 📬 Let’s Connect
