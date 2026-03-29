@@ -71,7 +71,7 @@ I’m especially interested in:
 ## `achievements`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img height="150" src="https://github-profile-trophy-tawny.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements" />
 </p>
 
 ---
