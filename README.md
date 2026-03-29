@@ -58,12 +58,11 @@ I’m especially interested in:
 ## `github_stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&icon_color=00B89F&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=12" />
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
 </p>
 
 ---
