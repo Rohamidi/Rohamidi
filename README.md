@@ -1,86 +1,90 @@
 <!-- HEADER -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Roham%20Hamidi&fontAlign=30&fontSize=30&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Roham%20Hamidi&fontAlign=30&fontSize=32&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlign=60&descAlignY=50&theme=radical)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1200&color=00B89F&center=true&vCenter=true&width=900&lines=Roham+Hamidi;Python+%7C+Cybersecurity+%7C+Software+Development;Building+useful+systems%2C+learning+fast%2C+staying+curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=00B89F&center=true&vCenter=true&width=900&lines=root%40roham%3A~%24+whoami;Roham+Hamidi;Python+%7C+Cybersecurity+%7C+Automation;Building+clean+systems+with+real+purpose" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE+VIEWS&color=00b89f&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rohamidi?label=FOLLOWERS&style=for-the-badge&color=00b89f&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/Rohamidi?label=TOTAL+STARS&style=for-the-badge&color=00b89f&labelColor=000000" />
 </p>
 
 ---
 
-## `whoami`
+```bash
+> boot.log
 
-I’m Roham Hamidi, a developer and cybersecurity student based in Tbilisi.
-
-My main focus is on Python, cybersecurity, automation, and building practical software that solves real problems. I like systems that are clean, reliable, scalable, and built with purpose.
-
-Right now, I’m learning, building, and improving every day — from software projects and app development to security, cryptography, and problem solving.
-
----
-
-## `about_me`
-
-- Focused on **Python**, **cybersecurity**, **software development**, and **automation**
-- Studying at the **Scientific Cybersecurity Association of Georgia**
-- Interested in **AI**, **machine learning**, **cryptography**, and **smart systems**
-- Building projects with a strong focus on **real-world use**, not just theory
-- Based in **Tbilisi, Georgia**
+[✓] name        : Roham Hamidi
+[✓] location    : Tbilisi, Georgia
+[✓] focus       : Python / Cybersecurity / Software Development
+[✓] learning    : AI / Cryptography / Automation / Smart Systems
+[✓] status      : building, learning, improving
+```
 
 ---
 
-## `tech_stack`
+## `stack`
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,arduino,html,css,linux,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00B89F" />
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00B89F" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00B89F" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=githubactions&logoColor=00B89F" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00B89F" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00B89F" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00B89F" />
 </p>
 
 ---
 
-## `current_direction`
+## `terminal`
 
-I’m especially interested in:
-
-- Secure and efficient software
-- Python-based tools and automation
-- Cybersecurity and ethical hacking
-- AI-powered systems
-- Embedded and sensor-based projects
-- Building modern applications with long-term potential
+```python
+class RohamHamidi:
+    def __init__(self):
+        self.role = ["Developer", "Cybersecurity Student"]
+        self.code = ["Python", "HTML", "CSS", "Arduino"]
+        self.interests = [
+            "Cybersecurity",
+            "Automation",
+            "AI",
+            "Cryptography",
+            "Software Systems"
+        ]
+        self.mindset = "Build useful things. Keep it clean. Keep improving."
+```
 
 ---
 
-## `github_stats`
+## `focus`
+
+```bash
+$ ls current_targets/
+
+secure-software
+python-tools
+automation
+ethical-hacking
+ai-systems
+real-world-projects
+```
+
+---
+
+## `activity`
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
-</p>
-
----
-
-## `achievements`
-
-<p align="center">
-  <img height="150" src="https://github-profile-trophy-tawny.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Achievements" />
-</p>
-
----
-
-## `activity_map`
-
-<p align="center">
-  <a href="https://github.com/Rohamidi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=github_dark" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohamidi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohamidi&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -89,22 +93,26 @@ I’m especially interested in:
 
 ---
 
-## `connect`
+## `network`
 
 <p align="center">
   <a href="mailto:rohamidi.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohamidi.it%40gmail.com-00B89F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00B89F" />
   </a>
   <a href="https://www.linkedin.com/in/rohamidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Roham%20Hamidi-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00B89F" />
   </a>
   <a href="https://t.me/Rohamidi">
-    <img src="https://img.shields.io/badge/Telegram-@Rohamidi-00B89F?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00B89F" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <code>Build. Learn. Improve. Repeat.</code>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:00B89F&section=footer" />
+</p>
+
+<p align="center">
+  <code>root@roham:~$ build --learn --repeat</code>
 </p>
