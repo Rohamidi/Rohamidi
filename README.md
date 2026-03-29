@@ -4,27 +4,27 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f14,30:001a14,70:00b89f,100:00ff9c&text=Roham%20Hamidi&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=58&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:060b14,25:0b1f3a,55:123d82,80:1f6feb,100:58a6ff&text=Roham%20Hamidi&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=60&descSize=19&animation=twinkling"
     alt="header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+whoami;Roham+Hamidi;Python+Developer+%7C+Cybersecurity+Student;Building+clean+systems+and+useful+tools;Linux+%7C+Automation+%7C+Security"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=980&lines=%3E+whoami;Roham+Hamidi;Python+Developer+%7C+Cybersecurity+Student;Building+secure+systems+and+useful+software;Linux+%7C+Automation+%7C+Security+%7C+AI"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0b0f14?style=for-the-badge&logo=hackaday&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Automation-0b0f14?style=for-the-badge&logo=gnubash&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackaday&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
 </p>
 
 ---
