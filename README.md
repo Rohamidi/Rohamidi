@@ -1,9 +1,32 @@
 <!-- HEADER -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Roham%20Hamidi&fontAlign=30&fontSize=30&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlign=60&descAlignY=50&theme=radical)
+<!-- ========================= -->
+<!--          HEADER           -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1200&color=00B89F&center=true&vCenter=true&width=900&lines=Roham+Hamidi;Python+%7C+Cybersecurity+%7C+Software+Development;Building+useful+systems%2C+learning+fast%2C+staying+curious" alt="Typing SVG" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f14,30:001a14,70:00b89f,100:00ff9c&text=Roham%20Hamidi&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=58&descSize=18&animation=fadeIn"
+    alt="header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+whoami;Roham+Hamidi;Python+Developer+%7C+Cybersecurity+Student;Building+clean+systems+and+useful+tools;Linux+%7C+Automation+%7C+Security"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0b0f14?style=for-the-badge&logo=hackaday&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Automation-0b0f14?style=for-the-badge&logo=gnubash&logoColor=00FF9C" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
 </p>
 
 ---
