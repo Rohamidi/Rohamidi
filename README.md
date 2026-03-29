@@ -1,62 +1,111 @@
+<!-- HEADER -->
+
+![header](https://capsule-render.vercel.app/api?type=rect&text=Roham%20Hamidi&fontAlign=30&fontSize=30&desc=Python%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlign=60&descAlignY=50&theme=radical)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=SYSTEM.INIT(ROHAM_HAMIDI)&fontAlign=30&fontSize=30&desc=Lead%20Developer%20|%20Security%20Researcher&descAlign=60&descAlignY=50&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1200&color=00B89F&center=true&vCenter=true&width=900&lines=Roham+Hamidi;Python+%7C+Cybersecurity+%7C+Software+Development;Building+useful+systems%2C+learning+fast%2C+staying+curious" alt="Typing SVG" />
+</p>
+
+---
+
+## `whoami`
+
+I’m Roham Hamidi, a developer and cybersecurity student based in Tbilisi.
+
+My main focus is on Python, cybersecurity, automation, and building practical software that solves real problems. I like systems that are clean, reliable, scalable, and built with purpose.
+
+Right now, I’m learning, building, and improving every day — from software projects and app development to security, cryptography, and problem solving.
+
+---
+
+## `about_me`
+
+- Focused on **Python**, **cybersecurity**, **software development**, and **automation**
+- Studying at the **Scientific Cybersecurity Association of Georgia**
+- Interested in **AI**, **machine learning**, **cryptography**, and **smart systems**
+- Building projects with a strong focus on **real-world use**, not just theory
+- Based in **Tbilisi, Georgia**
+
+---
+
+## `tech_stack`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00B89F" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00B89F" />
+</p>
+
+---
+
+## `current_direction`
+
+I’m especially interested in:
+
+- Secure and efficient software
+- Python-based tools and automation
+- Cybersecurity and ethical hacking
+- AI-powered systems
+- Embedded and sensor-based projects
+- Building modern applications with long-term potential
+
+---
+
+## `github_stats`
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_title=true&icon_color=00B89F&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=ffffff&border_radius=12" />
+</p>
+
+---
+
+## `achievements`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohamidi&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+</p>
+
+---
+
+## `activity_map`
+
+<p align="center">
+  <a href="https://github.com/Rohamidi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohamidi&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
+</p>
+
+---
+
+## `connect`
+
+<p align="center">
+  <a href="mailto:rohamidi.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohamidi.it%40gmail.com-00B89F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohamidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Roham%20Hamidi-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Rohamidi">
+    <img src="https://img.shields.io/badge/Telegram-@Rohamidi-00B89F?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00B89F&center=true&vCenter=true&width=900&lines=Software+Architect+@+SPACE;SCSA+Security+Researcher;6+Years+of+IT+Infrastructure+Experience;GSoC+2026+Contributor" alt="Typing SVG" />
-</p>
-
----
-
-### 🟢 Status Report
-
-I am a **Lead Developer** based in Tbilisi with 6+ years of experience in software architecture and network security. I specialize in building scalable cross-platform systems and performing deep-dive security research.
-
-- 🏗️ **Currently Architecting:** [SPACE](https://github.com/Rohamidi), an open-source property management platform utilized by major hotels in Georgia and Dubai.
-- 🔐 **Security:** Active member of the **Scientific Cyber Security Association (SCSA)**. Researching cryptography and ethical hacking under the mentorship of **Dr. Maksim Iavich**.
-- 🚀 **Open Source:** Actively participating in **GSoC 2026** (Dart, API Dash, Open Food Facts).
-- 📍 **Location:** Tbilisi, Georgia (Asia/Tbilisi UTC+4).
-
----
-
-### 💻 Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `Dart` `JavaScript` `C++` `HTML/CSS` |
-| **Frameworks** | `Flutter` `Django` `FastAPI` `Arduino` |
-| **Security** | `Cryptography` `Network Analysis` `Penetration Testing` `Linux` |
-| **Tools** | `Git/GitHub` `Docker` `VMware` `Postman` |
-
----
-
-### 📈 System Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=radical&hide_border=true&icon_color=00B89F&title_color=00B89F&text_color=ffffff" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Rohamidi&theme=radical&hide_border=true&stroke=00B89F&ring=00B89F&fire=00B89F&currStreakLabel=00B89F" />
-</p>
-
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohamidi&range=last_7_days&theme=tokyonight&title_color=00B89F&border_radius=15" />
-</p>
-
----
-
-### ⛓️ Repository Activity
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
-</p>
-
----
-
-### 📬 Network Handshake
-
-<p align="center">
-  <a href="mailto:rohamidi.it@gmail.com"><img src="https://img.shields.io/badge/Connect-Gmail-00B89F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohamidi/"><img src="https://img.shields.io/badge/Connect-LinkedIn-00B89F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Rohamidi"><img src="https://img.shields.io/badge/Connect-Telegram-00B89F?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <code>Build. Learn. Improve. Repeat.</code>
 </p>
