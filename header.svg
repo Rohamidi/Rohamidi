@@ -346,7 +346,7 @@
     <text x="600" y="144" text-anchor="middle" fill="url(#nameBase)" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
     <text x="600" y="144" text-anchor="middle" fill="url(#nameFlow)" opacity="0.94" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
 
-    <text x="600" y="188" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="17" font-weight="700" class="font-ui caps">PROGRAMMER  -  HACKER</text>
+    <text x="600" y="188" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="17" font-weight="700" class="font-ui caps">PROGRAMMER  &\  HACKER</text>
 
     <!-- footer connectors -->
     <g opacity="0.18">
