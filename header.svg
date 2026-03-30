@@ -1,75 +1,70 @@
-<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Roham Hamidi GitHub Profile Header</title>
-  <desc id="desc">A premium modern iOS-inspired GitHub profile header with animated glassmorphism, a large centered name, and a smoothly moving color effect across the letters.</desc>
+  <desc id="desc">A premium modern iOS-inspired GitHub profile header with a larger centered name, glassmorphism, subtle programming symbols, and smooth animated lighting.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="120" y1="20" x2="1500" y2="520" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="100" y1="20" x2="1510" y2="620" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#030711"/>
-      <stop offset="0.46" stop-color="#060B18"/>
+      <stop offset="0.44" stop-color="#060B18"/>
       <stop offset="1" stop-color="#081C3B"/>
-      <animate attributeName="x1" values="120;180;120" dur="18s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1500;1440;1500" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="100;170;100" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1510;1450;1510" dur="18s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <radialGradient id="orbLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 120) rotate(28) scale(480 300)">
+    <radialGradient id="orbLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 150) rotate(28) scale(540 350)">
       <stop offset="0" stop-color="#69C6FF" stop-opacity="0.44"/>
       <stop offset="0.42" stop-color="#2196F3" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#0D47A1" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="orbRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1372 388) rotate(180) scale(470 290)">
+    <radialGradient id="orbRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1380 470) rotate(180) scale(520 330)">
       <stop offset="0" stop-color="#B4ECFF" stop-opacity="0.24"/>
       <stop offset="0.48" stop-color="#42A5F5" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#42A5F5" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="centerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 258) rotate(90) scale(250 760)">
+    <radialGradient id="centerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 310) rotate(90) scale(320 900)">
       <stop offset="0" stop-color="#E2F7FF" stop-opacity="0.12"/>
       <stop offset="0.50" stop-color="#7BCFFF" stop-opacity="0.05"/>
       <stop offset="1" stop-color="#7BCFFF" stop-opacity="0"/>
     </radialGradient>
 
-    <linearGradient id="panelStroke" x1="308" y1="72" x2="1300" y2="450" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panelStroke" x1="220" y1="50" x2="1380" y2="570" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#F4FCFF" stop-opacity="0.36"/>
       <stop offset="0.26" stop-color="#B4E9FF" stop-opacity="0.23"/>
       <stop offset="0.62" stop-color="#69C6FF" stop-opacity="0.14"/>
       <stop offset="1" stop-color="#9CD9FF" stop-opacity="0.09"/>
     </linearGradient>
 
-    <linearGradient id="innerStroke" x1="370" y1="102" x2="1230" y2="420" gradientUnits="userSpaceOnUse">
+    <linearGradient id="innerStroke" x1="300" y1="82" x2="1300" y2="540" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.025"/>
     </linearGradient>
 
-    <linearGradient id="subtitleGrad" x1="610" y1="318" x2="990" y2="318" gradientUnits="userSpaceOnUse">
+    <linearGradient id="subtitleGrad" x1="520" y1="420" x2="1080" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E0F6FF" stop-opacity="0.95"/>
       <stop offset="1" stop-color="#A8DDFF" stop-opacity="0.88"/>
     </linearGradient>
 
-    <linearGradient id="chipGrad" x1="646" y1="132" x2="956" y2="166" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#E9F9FF" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#A8DDFF" stop-opacity="0.78"/>
-    </linearGradient>
-
-    <linearGradient id="nameBase" x1="500" y1="168" x2="1100" y2="332" gradientUnits="userSpaceOnUse">
+    <linearGradient id="nameBase" x1="420" y1="220" x2="1180" y2="430" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#F8FDFF"/>
       <stop offset="0.48" stop-color="#E5F6FF"/>
       <stop offset="1" stop-color="#B7E6FF"/>
     </linearGradient>
 
-    <linearGradient id="nameFlow" x1="280" y1="174" x2="1080" y2="330" gradientUnits="userSpaceOnUse">
-  <stop offset="0" stop-color="#F8FDFF"/>
-  <stop offset="0.18" stop-color="#DDF4FF"/>
-  <stop offset="0.36" stop-color="#7FD1FF"/>
-  <stop offset="0.52" stop-color="#F4FCFF"/>
-  <stop offset="0.70" stop-color="#55BCFF"/>
-  <stop offset="0.86" stop-color="#DDF4FF"/>
-  <stop offset="1" stop-color="#F8FDFF"/>
-  <animate attributeName="x1" values="220;860;220" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
-  <animate attributeName="x2" values="1040;1680;1040" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
-  <animate attributeName="y1" values="170;182;170" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
-  <animate attributeName="y2" values="326;340;326" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
-</linearGradient>
+    <linearGradient id="nameFlow" x1="180" y1="218" x2="1180" y2="436" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FDFF"/>
+      <stop offset="0.18" stop-color="#DDF4FF"/>
+      <stop offset="0.36" stop-color="#7FD1FF"/>
+      <stop offset="0.52" stop-color="#F4FCFF"/>
+      <stop offset="0.70" stop-color="#55BCFF"/>
+      <stop offset="0.86" stop-color="#DDF4FF"/>
+      <stop offset="1" stop-color="#F8FDFF"/>
+      <animate attributeName="x1" values="140;900;140" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+      <animate attributeName="x2" values="1040;1800;1040" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+      <animate attributeName="y1" values="218;234;218" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+      <animate attributeName="y2" values="436;450;436" dur="7.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+    </linearGradient>
 
     <linearGradient id="nameSweep" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
@@ -79,16 +74,17 @@
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
 
+    <linearGradient id="codePill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+
     <filter id="blurXXL" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="66"/>
     </filter>
 
     <filter id="blurXL" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="34"/>
-    </filter>
-
-    <filter id="blurL" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18"/>
     </filter>
 
     <filter id="panelShadow" x="-20%" y="-25%" width="140%" height="155%" color-interpolation-filters="sRGB">
@@ -108,12 +104,12 @@
     </filter>
 
     <clipPath id="panelClip">
-      <rect x="300" y="70" width="1000" height="380" rx="42"/>
+      <rect x="210" y="48" width="1180" height="524" rx="52"/>
     </clipPath>
 
     <mask id="nameSweepMask">
-      <rect x="0" y="0" width="1600" height="520" fill="black"/>
-      <rect x="-440" y="0" width="320" height="520" fill="url(#nameSweep)" transform="rotate(14 0 0)">
+      <rect x="0" y="0" width="1600" height="620" fill="black"/>
+      <rect x="-440" y="0" width="320" height="620" fill="url(#nameSweep)" transform="rotate(14 0 0)">
         <animateTransform attributeName="transform" type="translate" values="0 0; 2140 0" dur="6.8s" repeatCount="indefinite"/>
       </rect>
     </mask>
@@ -121,159 +117,151 @@
     <style>
       .font-display { font-family: "SF Pro Display", "Inter", "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
       .font-ui { font-family: "SF Pro Text", "Inter", "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .font-mono { font-family: "SF Mono", "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace; }
       .caps { letter-spacing: 0.18em; }
-      .fine { letter-spacing: 0.12em; }
     </style>
   </defs>
 
-  <rect width="1600" height="520" fill="url(#bg)"/>
+  <rect width="1600" height="620" fill="url(#bg)"/>
 
   <g opacity="0.95">
-    <ellipse cx="230" cy="120" rx="350" ry="222" fill="url(#orbLeft)" filter="url(#blurXXL)">
+    <ellipse cx="220" cy="150" rx="390" ry="260" fill="url(#orbLeft)" filter="url(#blurXXL)">
       <animateTransform attributeName="transform" type="translate" values="0 0; 18 -12; 0 0" dur="14s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.88;1;0.88" dur="14s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="1372" cy="388" rx="338" ry="212" fill="url(#orbRight)" filter="url(#blurXXL)">
+    <ellipse cx="1380" cy="470" rx="370" ry="240" fill="url(#orbRight)" filter="url(#blurXXL)">
       <animateTransform attributeName="transform" type="translate" values="0 0; -16 12; 0 0" dur="16s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.8;0.96;0.8" dur="16s" repeatCount="indefinite"/>
     </ellipse>
   </g>
 
-  <g opacity="0.24">
-    <path d="M96 154H336" stroke="#1565C0" stroke-width="1.2"/>
-    <path d="M1266 366H1506" stroke="#1565C0" stroke-width="1.2"/>
-    <circle cx="336" cy="154" r="3.2" fill="#42A5F5">
+  <g opacity="0.20">
+    <path d="M80 176H328" stroke="#1565C0" stroke-width="1.2"/>
+    <path d="M1272 446H1520" stroke="#1565C0" stroke-width="1.2"/>
+    <circle cx="328" cy="176" r="3.2" fill="#42A5F5">
       <animate attributeName="opacity" values="0.45;0.95;0.45" dur="5.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1266" cy="366" r="3.2" fill="#42A5F5">
+    <circle cx="1272" cy="446" r="3.2" fill="#42A5F5">
       <animate attributeName="opacity" values="0.42;0.88;0.42" dur="6.2s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <g filter="url(#panelShadow)">
-    <rect x="300" y="70" width="1000" height="380" rx="42" fill="#0A1223" fill-opacity="0.56">
-      <animate attributeName="fill-opacity" values="0.54;0.585;0.54" dur="10s" repeatCount="indefinite"/>
+    <rect x="210" y="48" width="1180" height="524" rx="52" fill="#0A1223" fill-opacity="0.58">
+      <animate attributeName="fill-opacity" values="0.56;0.60;0.56" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <rect x="300" y="70" width="1000" height="380" rx="42" fill="url(#centerGlow)">
+    <rect x="210" y="48" width="1180" height="524" rx="52" fill="url(#centerGlow)">
       <animate attributeName="opacity" values="0.8;1;0.8" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <rect x="300.8" y="70.8" width="998.4" height="378.4" rx="41.2" stroke="url(#panelStroke)" stroke-width="1.6"/>
-    <rect x="314" y="84" width="972" height="352" rx="32" stroke="url(#innerStroke)" stroke-width="1"/>
+    <rect x="210.8" y="48.8" width="1178.4" height="522.4" rx="51.2" stroke="url(#panelStroke)" stroke-width="1.6"/>
+    <rect x="228" y="66" width="1144" height="488" rx="40" stroke="url(#innerStroke)" stroke-width="1"/>
   </g>
 
   <g clip-path="url(#panelClip)">
-    <ellipse cx="516" cy="92" rx="228" ry="78" fill="#E6F8FF" fill-opacity="0.08" filter="url(#blurXL)">
+    <ellipse cx="520" cy="98" rx="268" ry="92" fill="#E6F8FF" fill-opacity="0.08" filter="url(#blurXL)">
       <animateTransform attributeName="transform" type="translate" values="0 0; 24 8; 0 0" dur="16s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="1138" cy="428" rx="266" ry="104" fill="#70C6FF" fill-opacity="0.10" filter="url(#blurXL)">
+
+    <ellipse cx="1134" cy="534" rx="296" ry="120" fill="#70C6FF" fill-opacity="0.10" filter="url(#blurXL)">
       <animateTransform attributeName="transform" type="translate" values="0 0; -18 -10; 0 0" dur="17s" repeatCount="indefinite"/>
     </ellipse>
 
-    <g opacity="0.20">
-      <path d="M1000 48C1124 124 1194 198 1268 312" stroke="#A7DEFF" stroke-width="1.1"/>
-      <path d="M952 462C1090 350 1182 282 1286 146" stroke="#56B8FF" stroke-width="1.1"/>
-      <path d="M340 404C466 348 548 300 628 198" stroke="#78CBFF" stroke-width="1.1"/>
-      <path d="M470 122C594 150 714 160 844 150" stroke="#D6F2FF" stroke-opacity="0.8" stroke-width="1"/>
+    <g opacity="0.16">
+      <path d="M1000 60C1132 146 1202 234 1292 364" stroke="#A7DEFF" stroke-width="1.1"/>
+      <path d="M928 548C1094 414 1194 322 1300 172" stroke="#56B8FF" stroke-width="1.1"/>
+      <path d="M434 152C590 178 722 186 884 174" stroke="#D6F2FF" stroke-opacity="0.8" stroke-width="1"/>
       <animateTransform attributeName="transform" type="translate" values="0 0; 6 -4; 0 0" dur="18s" repeatCount="indefinite"/>
     </g>
 
-    <g opacity="0.10">
-      <path d="M320 248H1280" stroke="#82CEFF" stroke-width="1"/>
-      <path d="M800 88V432" stroke="#82CEFF" stroke-width="1"/>
-      <animate attributeName="opacity" values="0.08;0.13;0.08" dur="8s" repeatCount="indefinite"/>
+    <g opacity="0.08">
+      <path d="M250 310H1350" stroke="#82CEFF" stroke-width="1"/>
+      <path d="M800 74V550" stroke="#82CEFF" stroke-width="1"/>
+      <animate attributeName="opacity" values="0.06;0.11;0.06" dur="8s" repeatCount="indefinite"/>
     </g>
 
-    <g opacity="0.88">
-      <g transform="translate(1210 122)" filter="url(#glowSoft)">
-        <rect x="-66" y="-36" width="132" height="72" rx="24" fill="#0D172C" fill-opacity="0.50" stroke="#D8F3FF" stroke-opacity="0.14"/>
-        <circle cx="-34" cy="0" r="14" fill="#10213A"/>
-        <circle cx="-34" cy="0" r="13.3" stroke="#BDE8FF" stroke-opacity="0.18"/>
-        <circle cx="-34" cy="0" r="5.8" fill="#ECF9FF" fill-opacity="0.94"/>
-        <rect x="-2" y="-8" width="48" height="8" rx="4" fill="#ECF9FF" fill-opacity="0.82"/>
-        <rect x="-2" y="6" width="31" height="6" rx="3" fill="#7DCCFF" fill-opacity="0.58"/>
-        <animateTransform attributeName="transform" type="translate" values="1210 122; 1206 126; 1210 122" dur="12.6s" repeatCount="indefinite"/>
+    <g transform="translate(800 104)" filter="url(#glowSoft)">
+      <rect x="-84" y="-24" width="168" height="48" rx="20" fill="#0D182E" fill-opacity="0.44" stroke="#D8F3FF" stroke-opacity="0.11"/>
+      <circle cx="-36" cy="0" r="6" fill="#E4F7FF"/>
+      <rect x="-14" y="-4" width="66" height="8" rx="4" fill="#9ED8FF" fill-opacity="0.72"/>
+      <animateTransform attributeName="transform" type="translate" values="800 104; 810 108; 800 104" dur="10s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0.62">
+      <g transform="translate(356 178)">
+        <rect x="-52" y="-20" width="104" height="40" rx="16" fill="url(#codePill)" stroke="#D8F3FF" stroke-opacity="0.08"/>
+        <text x="0" y="7" text-anchor="middle" class="font-mono" font-size="21" font-weight="600" fill="#CFEFFF" fill-opacity="0.72">&lt;/&gt;</text>
       </g>
 
-      <g transform="translate(392 388)" filter="url(#glowSoft)">
-        <rect x="-70" y="-36" width="140" height="72" rx="24" fill="#0B1427" fill-opacity="0.50" stroke="#D8F3FF" stroke-opacity="0.13"/>
-        <path d="M-32 0H12" stroke="#F3FCFF" stroke-opacity="0.82" stroke-width="6" stroke-linecap="round"/>
-        <path d="M-32 14H32" stroke="#7DCCFF" stroke-opacity="0.58" stroke-width="5" stroke-linecap="round"/>
-        <circle cx="-42" cy="-10" r="8" fill="#E3F7FF" fill-opacity="0.9"/>
-        <animateTransform attributeName="transform" type="translate" values="392 388; 404 380; 392 388" dur="12.5s" repeatCount="indefinite"/>
+      <g transform="translate(1240 176)">
+        <rect x="-46" y="-20" width="92" height="40" rx="16" fill="url(#codePill)" stroke="#D8F3FF" stroke-opacity="0.08"/>
+        <text x="0" y="7" text-anchor="middle" class="font-mono" font-size="21" font-weight="600" fill="#CFEFFF" fill-opacity="0.70">{ }</text>
       </g>
 
-      <g transform="translate(812 102)" filter="url(#glowSoft)">
-        <rect x="-58" y="-22" width="116" height="44" rx="18" fill="#0D182E" fill-opacity="0.44" stroke="#D8F3FF" stroke-opacity="0.11"/>
-        <circle cx="-22" cy="0" r="5.5" fill="#E4F7FF"/>
-        <rect x="-8" y="-4" width="42" height="8" rx="4" fill="#9ED8FF" fill-opacity="0.72"/>
-        <animateTransform attributeName="transform" type="translate" values="812 102; 822 106; 812 102" dur="10s" repeatCount="indefinite"/>
+      <g transform="translate(324 454)">
+        <text x="0" y="0" class="font-mono" font-size="22" font-weight="600" fill="#AEE1FF" fill-opacity="0.26">//</text>
+      </g>
+
+      <g transform="translate(1262 456)">
+        <text x="0" y="0" class="font-mono" font-size="20" font-weight="600" fill="#AEE1FF" fill-opacity="0.24">[ ]</text>
       </g>
     </g>
 
     <g opacity="0.76">
-      <circle cx="450" cy="122" r="4" fill="#F0FBFF" filter="url(#microGlow)">
-        <animate attributeName="cy" values="122;114;122" dur="7.2s" repeatCount="indefinite"/>
+      <circle cx="438" cy="146" r="4" fill="#F0FBFF" filter="url(#microGlow)">
+        <animate attributeName="cy" values="146;136;146" dur="7.2s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.45;0.95;0.45" dur="7.2s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="1174" cy="104" r="3.5" fill="#C6ECFF" filter="url(#microGlow)">
-        <animate attributeName="cy" values="104;114;104" dur="8.4s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.35;0.82;0.35" dur="8.4s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1220" cy="362" r="4" fill="#E7F8FF" filter="url(#microGlow)">
-        <animate attributeName="cy" values="362;348;362" dur="7.6s" repeatCount="indefinite"/>
+      <circle cx="1228" cy="450" r="4" fill="#E7F8FF" filter="url(#microGlow)">
+        <animate attributeName="cy" values="450;436;450" dur="7.6s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.42;0.9;0.42" dur="7.6s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="352" cy="296" r="3.2" fill="#BEE8FF" filter="url(#microGlow)">
-        <animate attributeName="cy" values="296;304;296" dur="6.8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.28;0.74;0.28" dur="6.8s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1284" cy="242" r="3.8" fill="#DFF6FF" filter="url(#microGlow)">
-        <animate attributeName="cx" values="1284;1274;1284" dur="9.4s" repeatCount="indefinite"/>
+      <circle cx="1288" cy="288" r="3.8" fill="#DFF6FF" filter="url(#microGlow)">
+        <animate attributeName="cx" values="1288;1278;1288" dur="9.4s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.24;0.72;0.24" dur="9.4s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="318" cy="188" r="3.4" fill="#AEE1FF" filter="url(#microGlow)">
-        <animate attributeName="cx" values="318;330;318" dur="8.8s" repeatCount="indefinite"/>
+      <circle cx="316" cy="236" r="3.4" fill="#AEE1FF" filter="url(#microGlow)">
+        <animate attributeName="cx" values="316;328;316" dur="8.8s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.22;0.66;0.22" dur="8.8s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <g filter="url(#nameGlow)" opacity="0.25">
-      <text x="800" y="264" text-anchor="middle" fill="#8FD6FF" font-size="98" font-weight="780" class="font-display">Roham Hamidi</text>
+    <g filter="url(#nameGlow)" opacity="0.24">
+      <text x="800" y="344" text-anchor="middle" fill="#8FD6FF" font-size="126" font-weight="780" class="font-display">Roham Hamidi</text>
       <animate attributeName="opacity" values="0.20;0.30;0.20" dur="8.2s" repeatCount="indefinite"/>
     </g>
 
-    <text x="800" y="264" text-anchor="middle" fill="url(#nameBase)" font-size="94" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
-    <text x="800" y="264" text-anchor="middle" fill="url(#nameFlow)" opacity="0.92" font-size="94" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
-    <text x="800" y="264" text-anchor="middle" fill="#FFFFFF" opacity="0.28" mask="url(#nameSweepMask)" font-size="94" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
+    <text x="800" y="344" text-anchor="middle" fill="url(#nameBase)" font-size="126" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
+    <text x="800" y="344" text-anchor="middle" fill="url(#nameFlow)" opacity="0.92" font-size="126" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
+    <text x="800" y="344" text-anchor="middle" fill="#FFFFFF" opacity="0.28" mask="url(#nameSweepMask)" font-size="126" font-weight="780" class="font-display" letter-spacing="0.01em">Roham Hamidi</text>
 
-    <text x="800" y="316" text-anchor="middle" fill="url(#subtitleGrad)" font-size="22" font-weight="560" class="font-ui caps">PROGRAMMING  •  HACKING  •  HELPING HUMANITY</text>
+    <text x="800" y="424" text-anchor="middle" fill="url(#subtitleGrad)" font-size="25" font-weight="560" class="font-ui caps">SOFTWARE ENGINEERING  •  CYBERSECURITY  •  DIGITAL SYSTEMS</text>
 
-    <g opacity="0.25">
-      <path d="M548 334H702" stroke="#93D6FF" stroke-opacity="0.18" stroke-width="1.2"/>
-      <path d="M898 334H1052" stroke="#93D6FF" stroke-opacity="0.18" stroke-width="1.2"/>
-      <circle cx="728" cy="334" r="3.2" fill="#7DCCFF" fill-opacity="0.82">
+    <g opacity="0.20">
+      <path d="M486 452H694" stroke="#93D6FF" stroke-opacity="0.18" stroke-width="1.2"/>
+      <path d="M906 452H1114" stroke="#93D6FF" stroke-opacity="0.18" stroke-width="1.2"/>
+      <circle cx="720" cy="452" r="3.2" fill="#7DCCFF" fill-opacity="0.82">
         <animate attributeName="opacity" values="0.45;0.9;0.45" dur="5.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="872" cy="334" r="3.2" fill="#E4F7FF" fill-opacity="0.78">
+      <circle cx="880" cy="452" r="3.2" fill="#E4F7FF" fill-opacity="0.78">
         <animate attributeName="opacity" values="0.40;0.92;0.40" dur="6.4s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <g opacity="0.16">
-      <path d="M564 358C646 372 726 380 800 380C874 380 954 372 1036 358" stroke="#BEE8FF" stroke-width="1.1" stroke-linecap="round">
+    <g opacity="0.14">
+      <path d="M552 490C650 506 734 514 800 514C866 514 950 506 1048 490" stroke="#BEE8FF" stroke-width="1.1" stroke-linecap="round">
         <animate attributeName="opacity" values="0.08;0.18;0.08" dur="7.8s" repeatCount="indefinite"/>
       </path>
     </g>
 
-    <g opacity="0.35">
-      <rect x="236" y="116" width="246" height="1.2" rx="0.6" fill="#86D1FF">
+    <g opacity="0.30">
+      <rect x="188" y="144" width="238" height="1.2" rx="0.6" fill="#86D1FF">
         <animate attributeName="opacity" values="0.1;0.34;0.1" dur="5.8s" repeatCount="indefinite"/>
       </rect>
-      <rect x="1118" y="398" width="246" height="1.2" rx="0.6" fill="#86D1FF">
+      <rect x="1174" y="484" width="238" height="1.2" rx="0.6" fill="#86D1FF">
         <animate attributeName="opacity" values="0.1;0.34;0.1" dur="6.8s" repeatCount="indefinite"/>
       </rect>
     </g>
   </g>
 
-  <rect x="14" y="14" width="1572" height="492" rx="28" stroke="#DDF6FF" stroke-opacity="0.04"/>
+  <rect x="14" y="14" width="1572" height="592" rx="28" stroke="#DDF6FF" stroke-opacity="0.04"/>
 </svg>
