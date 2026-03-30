@@ -76,9 +76,9 @@
     </linearGradient>
 
     <linearGradient id="networkStroke" x1="140" y1="94" x2="1060" y2="210" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7CC7FF" stop-opacity="0.18"/>
-      <stop offset="0.5" stop-color="#DFF3FF" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#7CC7FF" stop-opacity="0.24"/>
+      <stop offset="0.5" stop-color="#DFF3FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.24"/>
     </linearGradient>
 
     <clipPath id="panelClip">
@@ -119,7 +119,7 @@
     </g>
 
     <!-- network constellation left -->
-    <g opacity="0.58">
+    <g opacity="0.66">
       <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round">
         <path d="M146 102L190 120L164 154L214 176L256 148L230 108L190 120"/>
         <path d="M230 108L276 94L308 126L256 148"/>
@@ -145,7 +145,7 @@
     </g>
 
     <!-- network constellation right -->
-    <g opacity="0.58">
+    <g opacity="0.66">
       <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
         <path d="M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96"/>
         <path d="M990 150L958 130L930 162L968 196L1038 178"/>
@@ -174,34 +174,76 @@
     </g>
 
     <!-- floating chips -->
-    <g opacity="0.48">
-      <g transform="translate(308 96)">
+    <g opacity="0.5">
+      <g transform="translate(272 72)">
+        <animateTransform attributeName="transform" type="translate"
+          values="272 72; 286 60; 266 84; 272 72"
+          dur="7.8s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.34;0.68;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
         <rect x="-38" y="-17" width="76" height="34" rx="15" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.08"/>
         <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="16" font-weight="750" fill="#9CDCFE" fill-opacity="0.72">&lt;/&gt;</text>
       </g>
 
-      <g transform="translate(892 98)">
+      <g transform="translate(972 170)">
+        <animateTransform attributeName="transform" type="translate"
+          values="972 170; 958 184; 986 156; 972 170"
+          dur="8.4s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.36;0.7;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
         <rect x="-38" y="-17" width="76" height="34" rx="15" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.08"/>
         <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="16" font-weight="750" fill="#9CDCFE" fill-opacity="0.72">{ }</text>
       </g>
     </g>
 
     <!-- additional premium tech icons -->
-    <g opacity="0.34">
-      <g transform="translate(228 174)">
+    <g opacity="0.36">
+      <g transform="translate(218 94)">
+        <animateTransform attributeName="transform" type="translate"
+          values="218 94; 206 108; 228 82; 218 94"
+          dur="7.2s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.33;0.68;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
         <circle cx="0" cy="0" r="5.2" fill="#9CDCFE" fill-opacity="0.16" stroke="#DFF3FF" stroke-opacity="0.28" stroke-width="1"/>
         <circle cx="28" cy="-16" r="4.4" fill="#9CDCFE" fill-opacity="0.12" stroke="#DFF3FF" stroke-opacity="0.22" stroke-width="1"/>
         <circle cx="34" cy="18" r="4.4" fill="#9CDCFE" fill-opacity="0.12" stroke="#DFF3FF" stroke-opacity="0.22" stroke-width="1"/>
         <path d="M5 -1L23 -12M6 2L24 14M31 -12L33 13" stroke="url(#networkStroke)" stroke-width="1.2" stroke-linecap="round"/>
       </g>
 
-      <g transform="translate(975 176)">
+      <g transform="translate(286 212)">
+        <animateTransform attributeName="transform" type="translate"
+          values="286 212; 302 200; 274 224; 286 212"
+          dur="8.0s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.35;0.72;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <path d="M0 -14L12 -7V7L0 14L-12 7V-7Z" fill="#DFF3FF" fill-opacity="0.035" stroke="#DFF3FF" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="0" cy="0" r="3.4" fill="#9CDCFE" fill-opacity="0.20" stroke="#9CDCFE" stroke-opacity="0.28" stroke-width="1"/>
+        <circle cx="0" cy="-14" r="2.1" fill="#9CDCFE" fill-opacity="0.34"/>
+        <circle cx="12" cy="-7" r="2.1" fill="#9CDCFE" fill-opacity="0.28"/>
+        <circle cx="12" cy="7" r="2.1" fill="#9CDCFE" fill-opacity="0.28"/>
+        <circle cx="0" cy="14" r="2.1" fill="#9CDCFE" fill-opacity="0.34"/>
+        <circle cx="-12" cy="7" r="2.1" fill="#9CDCFE" fill-opacity="0.28"/>
+        <circle cx="-12" cy="-7" r="2.1" fill="#9CDCFE" fill-opacity="0.28"/>
+        <path d="M0 -10V10M-8 -5L8 5M8 -5L-8 5" stroke="#9CDCFE" stroke-opacity="0.30" stroke-width="1.05" stroke-linecap="round"/>
+      </g>
+
+      <g transform="translate(1012 108)">
+        <animateTransform attributeName="transform" type="translate"
+          values="1012 108; 996 122; 1024 94; 1012 108"
+          dur="7.6s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.34;0.7;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
         <rect x="-14" y="-14" width="28" height="28" rx="8" fill="#DFF3FF" fill-opacity="0.04" stroke="#DFF3FF" stroke-opacity="0.18"/>
         <rect x="-7.5" y="-7.5" width="15" height="15" rx="3.5" fill="#9CDCFE" fill-opacity="0.08" stroke="#9CDCFE" stroke-opacity="0.26"/>
         <path d="M0 -14V-22M0 14V22M-14 0H-22M14 0H22M10 -10L16 -16M-10 -10L-16 -16M10 10L16 16M-10 10L-16 16" stroke="#9CDCFE" stroke-opacity="0.26" stroke-width="1.1" stroke-linecap="round"/>
       </g>
 
-      <g transform="translate(1036 88)">
+      <g transform="translate(1062 88)">
+        <animateTransform attributeName="transform" type="translate"
+          values="1062 88; 1076 74; 1048 102; 1062 88"
+          dur="7.0s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.36;0.7;1"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
         <path d="M-11 1C-11 -5 -6 -10 0 -10C4 -10 7 -8 9 -5C10 -5 11 -5 12 -5C17 -5 21 -1 21 5C21 10 17 14 12 14H-1C-7 14 -12 10 -12 4C-12 3 -12 2 -11 1Z"
               fill="#DFF3FF" fill-opacity="0.035" stroke="#DFF3FF" stroke-opacity="0.12"/>
         <path d="M-3 7L1 3L5 7M1 3V11" stroke="#9CDCFE" stroke-opacity="0.32" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
@@ -210,8 +252,81 @@
       </g>
     </g>
 
+    <!-- icon connector branches -->
+    <g opacity="0.52">
+      <g stroke="url(#networkStroke)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M276 84L276 78L272 74">
+          <animate attributeName="d"
+            values="M276 84L275 77L272 72;M276 84L281 72L286 60;M276 84L271 85L266 84;M276 84L275 77L272 72"
+            dur="7.8s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.34;0.68;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+        <path d="M224 102L221 99L218 94">
+          <animate attributeName="d"
+            values="M224 102L221 98L218 94;M224 102L215 105L206 108;M224 102L226 92L228 82;M224 102L221 98L218 94"
+            dur="7.2s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.33;0.68;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+        <path d="M270 210L278 210L286 212">
+          <animate attributeName="d"
+            values="M270 210L278 211L286 212;M270 210L286 205L302 200;M270 210L272 217L274 224;M270 210L278 211L286 212"
+            dur="8.0s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.35;0.72;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+        <path d="M1018 108L1015 108L1012 108">
+          <animate attributeName="d"
+            values="M1018 108L1015 108L1012 108;M1018 108L1007 115L996 122;M1018 108L1021 101L1024 94;M1018 108L1015 108L1012 108"
+            dur="7.6s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.34;0.7;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+        <path d="M1060 88L1063 88L1068 88">
+          <animate attributeName="d"
+            values="M1060 88L1061 88L1062 88;M1060 88L1068 81L1076 74;M1060 88L1054 95L1048 102;M1060 88L1061 88L1062 88"
+            dur="7.0s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.36;0.7;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+        <path d="M968 188L970 179L972 174">
+          <animate attributeName="d"
+            values="M968 188L970 179L972 170;M968 188L964 186L958 184;M968 188L977 172L986 156;M968 188L970 179L972 170"
+            dur="8.4s" repeatCount="indefinite"
+            calcMode="spline" keyTimes="0;0.36;0.7;1"
+            keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        </path>
+      </g>
+      <g fill="#DFF3FF">
+        <circle cx="276" cy="84" r="2.55" filter="url(#microGlow)"/>
+        <circle cx="224" cy="102" r="2.55" filter="url(#microGlow)"/>
+        <circle cx="270" cy="210" r="2.55" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="1018" cy="108" r="2.55" filter="url(#microGlow)"/>
+        <circle cx="1060" cy="88" r="2.55" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="968" cy="188" r="2.55" filter="url(#microGlow)"/>
+      </g>
+      <circle cx="276" cy="84" r="7" fill="#7CC7FF" fill-opacity="0.07">
+        <animate attributeName="r" values="5.2;8.6;5.2" dur="5.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.12;0.03;0.12" dur="5.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1018" cy="108" r="7" fill="#DFF3FF" fill-opacity="0.07">
+        <animate attributeName="r" values="5.2;8.8;5.2" dur="5.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.12;0.03;0.12" dur="5.9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="270" cy="210" r="6.4" fill="#7CC7FF" fill-opacity="0.055">
+        <animate attributeName="r" values="4.8;7.8;4.8" dur="6.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.10;0.025;0.10" dur="6.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="968" cy="188" r="6.6" fill="#DFF3FF" fill-opacity="0.055">
+        <animate attributeName="r" values="4.9;8.1;4.9" dur="6.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.10;0.024;0.10" dur="6.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
     <!-- central connector arcs -->
     <g opacity="0.28">
+      <animate attributeName="opacity" values="0.22;0.34;0.22" dur="9.2s" repeatCount="indefinite"/>
       <path d="M392 108C460 94 536 88 600 88C664 88 740 94 808 108" stroke="#7CC7FF" stroke-opacity="0.18" stroke-width="1.15"/>
       <path d="M378 200C456 214 536 220 600 220C664 220 744 214 822 200" stroke="#7CC7FF" stroke-opacity="0.16" stroke-width="1.15"/>
       <circle cx="600" cy="88" r="2.8" fill="#DFF3FF">
@@ -224,27 +339,27 @@
 
     <!-- title -->
     <g filter="url(#nameGlow)" opacity="0.20">
-      <text x="600" y="143" text-anchor="middle" fill="#7CC7FF" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+      <text x="600" y="144" text-anchor="middle" fill="#7CC7FF" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
       <animate attributeName="opacity" values="0.15;0.27;0.15" dur="8s" repeatCount="indefinite"/>
     </g>
 
-    <text x="600" y="143" text-anchor="middle" fill="url(#nameBase)" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
-    <text x="600" y="143" text-anchor="middle" fill="url(#nameFlow)" opacity="0.94" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+    <text x="600" y="144" text-anchor="middle" fill="url(#nameBase)" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+    <text x="600" y="144" text-anchor="middle" fill="url(#nameFlow)" opacity="0.94" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
 
-    <text x="600" y="184" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="15" font-weight="690" class="font-ui caps">PROGRAMMER  •  HACKER  •  AI ENTHUSIAST</text>
+    <text x="600" y="188" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="17" font-weight="700" class="font-ui caps">PROGRAMMER  •  HACKER  •  AI ENTHUSIAST</text>
 
     <!-- footer connectors -->
     <g opacity="0.18">
-      <path d="M338 198H492" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
-      <path d="M708 198H862" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
-      <path d="M492 198C520 198 530 188 556 188H644C670 188 680 198 708 198" stroke="#DFF3FF" stroke-opacity="0.16" stroke-width="1.05"/>
-      <circle cx="510" cy="198" r="2.6" fill="#6CB6FF" fill-opacity="0.76">
+      <path d="M330 204H486" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
+      <path d="M714 204H870" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
+      <path d="M486 204C516 204 528 194 556 194H644C672 194 684 204 714 204" stroke="#DFF3FF" stroke-opacity="0.16" stroke-width="1.05"/>
+      <circle cx="504" cy="204" r="2.6" fill="#6CB6FF" fill-opacity="0.76">
         <animate attributeName="opacity" values="0.36;0.88;0.36" dur="5.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="690" cy="198" r="2.6" fill="#DFF3FF" fill-opacity="0.74">
+      <circle cx="696" cy="204" r="2.6" fill="#DFF3FF" fill-opacity="0.74">
         <animate attributeName="opacity" values="0.34;0.86;0.34" dur="6.4s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="600" cy="188" r="2.4" fill="#9CDCFE" fill-opacity="0.72">
+      <circle cx="600" cy="194" r="2.4" fill="#9CDCFE" fill-opacity="0.72">
         <animate attributeName="opacity" values="0.32;0.9;0.32" dur="5.2s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -261,7 +376,7 @@
         <animate attributeName="cx" values="920;912;920" dur="9s" repeatCount="indefinite"/>
       </circle>
       <circle cx="288" cy="178" r="2.5" fill="#9CDCFE" filter="url(#microGlow)">
-        <animate attributeName="cx" values="288;296;288" dur="8.6s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="288;296;288" dur="7.0s" repeatCount="indefinite"/>
       </circle>
     </g>
   </g>
