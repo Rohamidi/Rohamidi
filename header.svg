@@ -82,7 +82,7 @@
     </linearGradient>
 
     <clipPath id="panelClip">
-      <rect x="60" y="20" width="1080" height="240" rx="22"/>
+      <rect x="52" y="20" width="1096" height="240" rx="22"/>
     </clipPath>
 
     <style>
@@ -94,12 +94,12 @@
   </defs>
 
   <g filter="url(#shadow)">
-    <rect x="60" y="20" width="1080" height="240" rx="22" fill="url(#bg)"/>
-    <rect x="60.75" y="20.75" width="1078.5" height="238.5" rx="21.25" stroke="url(#stroke)" stroke-width="1.5"/>
+    <rect x="52" y="20" width="1096" height="240" rx="22" fill="url(#bg)"/>
+    <rect x="52.75" y="20.75" width="1094.5" height="238.5" rx="21.25" stroke="url(#stroke)" stroke-width="1.5"/>
   </g>
 
   <g clip-path="url(#panelClip)">
-    <rect x="60" y="20" width="1080" height="240" rx="22" fill="url(#centerGlow)" opacity="0.92">
+    <rect x="52" y="20" width="1096" height="240" rx="22" fill="url(#centerGlow)" opacity="0.92">
       <animate attributeName="opacity" values="0.72;0.96;0.72" dur="10s" repeatCount="indefinite"/>
     </rect>
 
@@ -111,14 +111,12 @@
       <animateTransform attributeName="transform" type="translate" values="0 0; -10 6; 0 0" dur="16s" repeatCount="indefinite"/>
     </ellipse>
 
-    <!-- subtle framing lines -->
     <g opacity="0.10">
       <path d="M874 68C938 96 1000 146 1072 208" stroke="#8FB9D8" stroke-width="1"/>
       <path d="M868 200C936 186 1000 166 1072 130" stroke="#DFF3FF" stroke-opacity="0.65" stroke-width="1"/>
       <animateTransform attributeName="transform" type="translate" values="0 0; 3 -2; 0 0" dur="18s" repeatCount="indefinite"/>
     </g>
 
-    <!-- network constellation left -->
     <g opacity="0.66">
       <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round">
         <path d="M146 102L190 120L164 154L214 176L256 148L230 108L190 120"/>
@@ -144,7 +142,6 @@
       </circle>
     </g>
 
-    <!-- network constellation right -->
     <g opacity="0.66">
       <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
         <path d="M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96"/>
@@ -173,7 +170,6 @@
       </circle>
     </g>
 
-    <!-- floating chips -->
     <g opacity="0.5">
       <g transform="translate(272 72)">
         <animateTransform attributeName="transform" type="translate"
@@ -196,7 +192,6 @@
       </g>
     </g>
 
-    <!-- additional premium tech icons -->
     <g opacity="0.36">
       <g transform="translate(218 94)">
         <animateTransform attributeName="transform" type="translate"
@@ -252,7 +247,6 @@
       </g>
     </g>
 
-    <!-- icon connector branches -->
     <g opacity="0.52">
       <g stroke="url(#networkStroke)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M276 84L276 78L272 74">
@@ -324,7 +318,6 @@
       </circle>
     </g>
 
-    <!-- central connector arcs -->
     <g opacity="0.28">
       <animate attributeName="opacity" values="0.22;0.34;0.22" dur="9.2s" repeatCount="indefinite"/>
       <path d="M392 108C460 94 536 88 600 88C664 88 740 94 808 108" stroke="#7CC7FF" stroke-opacity="0.18" stroke-width="1.15"/>
@@ -337,7 +330,6 @@
       </circle>
     </g>
 
-    <!-- title -->
     <g filter="url(#nameGlow)" opacity="0.20">
       <text x="600" y="144" text-anchor="middle" fill="#7CC7FF" font-size="64" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
       <animate attributeName="opacity" values="0.15;0.27;0.15" dur="8s" repeatCount="indefinite"/>
@@ -348,7 +340,6 @@
 
     <text x="600" y="188" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="17" font-weight="700" class="font-ui caps">PROGRAMMER  •  HACKER  •  AI ENTHUSIAST</text>
 
-    <!-- footer connectors -->
     <g opacity="0.18">
       <path d="M330 204H486" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
       <path d="M714 204H870" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
@@ -364,7 +355,6 @@
       </circle>
     </g>
 
-    <!-- tiny drifting particles -->
     <g opacity="0.7">
       <circle cx="336" cy="114" r="2.8" fill="#E6EDF3" filter="url(#microGlow)">
         <animate attributeName="cy" values="114;106;114" dur="7.2s" repeatCount="indefinite"/>
