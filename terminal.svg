@@ -1,0 +1,139 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal style intro</title>
+  <desc id="desc">A Linux-style terminal intro for Roham Hamidi's GitHub profile.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="120" y1="0" x2="1080" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050914"/>
+      <stop offset="1" stop-color="#0A1324"/>
+    </linearGradient>
+
+    <linearGradient id="stroke" x1="120" y1="20" x2="1080" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.08"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000814" flood-opacity="0.55"/>
+    </filter>
+
+    <clipPath id="clip1">
+      <rect x="282" y="76" width="0" height="20" rx="4">
+        <animate attributeName="width" values="0;178" dur="1.2s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="clip2">
+      <rect x="318" y="108" width="0" height="20" rx="4">
+        <animate attributeName="width" values="0;136" dur="1s" begin="1.7s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="clip3">
+      <rect x="318" y="138" width="0" height="20" rx="4">
+        <animate attributeName="width" values="0;432" dur="2.2s" begin="2.9s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="clip4">
+      <rect x="282" y="170" width="0" height="20" rx="4">
+        <animate attributeName="width" values="0;278" dur="1.6s" begin="5.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <style>
+      .mono {
+        font-family: "SF Mono", "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
+      }
+      .fade {
+        opacity: 0;
+        animation: fadeIn 0.01s linear forwards;
+      }
+      .line2 { animation-delay: 1.7s; }
+      .line3 { animation-delay: 2.9s; }
+      .line4 { animation-delay: 5.5s; }
+      .cursor1 { animation: blink 1s step-end infinite; }
+      .cursor2 {
+        opacity: 0;
+        animation:
+          show 0.01s linear 1.7s forwards,
+          blink 1s step-end 1.7s infinite;
+      }
+      .cursor3 {
+        opacity: 0;
+        animation:
+          show 0.01s linear 2.9s forwards,
+          blink 1s step-end 2.9s infinite;
+      }
+      .cursor4 {
+        opacity: 0;
+        animation:
+          show 0.01s linear 5.5s forwards,
+          blink 1s step-end 5.5s infinite;
+      }
+      .hide1 { animation: hide 0.01s linear 1.7s forwards; }
+      .hide2 { animation: hide 0.01s linear 2.9s forwards; }
+      .hide3 { animation: hide 0.01s linear 5.5s forwards; }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes show {
+        to { opacity: 1; }
+      }
+      @keyframes hide {
+        to { opacity: 0; }
+      }
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="20" width="1080" height="180" rx="22" fill="url(#bg)"/>
+    <rect x="60.75" y="20.75" width="1078.5" height="178.5" rx="21.25" stroke="url(#stroke)" stroke-width="1.5"/>
+  </g>
+
+  <!-- top bar -->
+  <circle cx="95" cy="47" r="5.5" fill="#FF5F57"/>
+  <circle cx="115" cy="47" r="5.5" fill="#FEBC2E"/>
+  <circle cx="135" cy="47" r="5.5" fill="#28C840"/>
+
+  <text x="1080" y="52" text-anchor="end" class="mono" font-size="14" fill="#8FB9D8" opacity="0.72">
+    roham@github: ~
+  </text>
+
+  <!-- line 1 -->
+  <text x="88" y="90" class="mono" font-size="22" fill="#6CB6FF">roham@github</text>
+  <text x="246" y="90" class="mono" font-size="22" fill="#E6EDF3">:</text>
+  <text x="258" y="90" class="mono" font-size="22" fill="#57D364">~</text>
+  <text x="272" y="90" class="mono" font-size="22" fill="#E6EDF3">$</text>
+  <g clip-path="url(#clip1)">
+    <text x="282" y="90" class="mono" font-size="22" fill="#E6EDF3">whoami</text>
+  </g>
+  <text x="460" y="90" class="mono cursor1 hide1" font-size="22" fill="#E6EDF3">▌</text>
+
+  <!-- line 2 -->
+  <g class="fade line2">
+    <text x="112" y="122" class="mono" font-size="22" fill="#9CDCFE">Roham Hamidi</text>
+  </g>
+  <text x="454" y="122" class="mono cursor2 hide2" font-size="22" fill="#E6EDF3">▌</text>
+
+  <!-- line 3 -->
+  <g class="fade line3">
+    <text x="112" y="152" class="mono" font-size="22" fill="#B6C9D9">Software engineering, security, and building useful things.</text>
+  </g>
+  <text x="756" y="152" class="mono cursor3 hide3" font-size="22" fill="#E6EDF3">▌</text>
+
+  <!-- line 4 -->
+  <text x="88" y="184" class="mono fade line4" font-size="22" fill="#6CB6FF">roham@github</text>
+  <text x="246" y="184" class="mono fade line4" font-size="22" fill="#E6EDF3">:</text>
+  <text x="258" y="184" class="mono fade line4" font-size="22" fill="#57D364">~</text>
+  <text x="272" y="184" class="mono fade line4" font-size="22" fill="#E6EDF3">$</text>
+  <g clip-path="url(#clip4)">
+    <text x="282" y="184" class="mono" font-size="22" fill="#E6EDF3">echo "always learning"</text>
+  </g>
+  <text x="566" y="184" class="mono cursor4" font-size="22" fill="#E6EDF3">▌</text>
+</svg>
