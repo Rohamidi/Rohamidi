@@ -118,95 +118,239 @@
     </g>
 
     <g opacity="0.70">
-  <g transform="translate(0 0)">
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; 8 -5; 5 6; -4 3; 0 0"
-      dur="18s"
-      repeatCount="indefinite"
-      calcMode="spline"
-      keyTimes="0;0.25;0.55;0.8;1"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M146 102L190 120L164 154L214 176L256 148L230 108L190 120">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M146 102L190 120L164 154L214 176L256 148L230 108L190 120;
+          M148 99L193 117L161 156L217 173L259 145L232 105L193 117;
+          M144 104L188 123L166 151L211 179L253 151L227 111L188 123;
+          M147 101L191 121L163 153L215 175L257 147L231 107L191 121;
+          M146 102L190 120L164 154L214 176L256 148L230 108L190 120" />
+    </path>
 
-    <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M146 102L190 120L164 154L214 176L256 148L230 108L190 120"/>
-      <path d="M230 108L276 94L308 126L256 148"/>
-      <path d="M164 154L128 182L170 206L214 176L252 206"/>
-    </g>
+    <path d="M230 108L276 94L308 126L256 148">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M230 108L276 94L308 126L256 148;
+          M232 105L279 92L311 124L259 145;
+          M227 111L274 97L305 129L253 151;
+          M231 107L277 94L309 127L257 147;
+          M230 108L276 94L308 126L256 148" />
+    </path>
 
-    <g fill="#DFF3FF">
-      <circle cx="146" cy="102" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="190" cy="120" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="164" cy="154" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="214" cy="176" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="256" cy="148" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="230" cy="108" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="276" cy="94" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="308" cy="126" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="128" cy="182" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="170" cy="206" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="252" cy="206" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-    </g>
+    <path d="M164 154L128 182L170 206L214 176L252 206">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M164 154L128 182L170 206L214 176L252 206;
+          M161 156L131 180L173 203L217 173L255 204;
+          M166 151L126 185L168 210L211 179L249 209;
+          M163 153L129 181L171 205L215 175L253 205;
+          M164 154L128 182L170 206L214 176L252 206" />
+    </path>
+  </g>
 
-    <circle cx="190" cy="120" r="10" fill="#7CC7FF" fill-opacity="0.10">
-      <animate attributeName="r" values="7;11.5;7" dur="5.2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.16;0.04;0.16" dur="5.2s" repeatCount="indefinite"/>
+  <g fill="#DFF3FF">
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="146;148;144;147;146"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="102;99;104;101;102"/>
     </circle>
 
-    <circle cx="214" cy="176" r="7.5" fill="#DFF3FF" fill-opacity="0.05">
-      <animate attributeName="r" values="5.5;8.5;5.5" dur="6.4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.10;0.025;0.10" dur="6.4s" repeatCount="indefinite"/>
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="190;193;188;191;190"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="120;117;123;121;120"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="164;161;166;163;164"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="154;156;151;153;154"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="214;217;211;215;214"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="176;173;179;175;176"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="256;259;253;257;256"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="148;145;151;147;148"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="230;232;227;231;230"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="108;105;111;107;108"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="276;279;274;277;276"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="94;92;97;94;94"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="308;311;305;309;308"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="126;124;129;127;126"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="128;131;126;129;128"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="182;180;185;181;182"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="170;173;168;171;170"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="206;203;210;205;206"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="252;255;249;253;252"/>
+      <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="206;204;209;205;206"/>
     </circle>
   </g>
+
+  <circle r="10" fill="#7CC7FF" fill-opacity="0.10">
+    <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="190;193;188;191;190"/>
+    <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="120;117;123;121;120"/>
+    <animate attributeName="r" values="7;11.5;7" dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.16;0.04;0.16" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle r="7.5" fill="#DFF3FF" fill-opacity="0.05">
+    <animate attributeName="cx" dur="10s" repeatCount="indefinite" values="214;217;211;215;214"/>
+    <animate attributeName="cy" dur="10s" repeatCount="indefinite" values="176;173;179;175;176"/>
+    <animate attributeName="r" values="5.5;8.5;5.5" dur="6.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.10;0.025;0.10" dur="6.4s" repeatCount="indefinite"/>
+  </circle>
 </g>
 
-<!-- Right floating neuron network -->
+<!-- Right floating neuron network: each node moves independently -->
 <g opacity="0.70">
-  <g transform="translate(0 0)">
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; -7 4; -3 -6; 6 -2; 0 0"
-      dur="19.5s"
-      repeatCount="indefinite"
-      calcMode="spline"
-      keyTimes="0;0.24;0.52;0.82;1"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96;
+          M1057 93L1015 113L987 152L1035 175L1083 157L1099 119L1057 93;
+          M1063 99L1021 119L994 147L1041 182L1089 164L1105 126L1063 99;
+          M1059 95L1017 117L989 149L1037 179L1085 161L1101 123L1059 95;
+          M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96" />
+    </path>
 
-    <g stroke="url(#networkStroke)" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M1060 96L1018 116L990 150L1038 178L1086 160L1102 122L1060 96"/>
-      <path d="M990 150L958 130L930 162L968 196L1038 178"/>
-      <path d="M1018 116L976 98L946 114L958 130"/>
-      <path d="M976 98L1012 134L1060 96"/>
-      <path d="M968 196L1012 134L1086 160"/>
-    </g>
+    <path d="M990 150L958 130L930 162L968 196L1038 178">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M990 150L958 130L930 162L968 196L1038 178;
+          M987 152L955 127L927 164L965 193L1035 175;
+          M994 147L961 133L934 159L971 200L1041 182;
+          M989 149L957 129L929 161L967 197L1037 179;
+          M990 150L958 130L930 162L968 196L1038 178" />
+    </path>
 
-    <g fill="#DFF3FF">
-      <circle cx="1060" cy="96" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="1018" cy="116" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="990" cy="150" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="1038" cy="178" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="1086" cy="160" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="1102" cy="122" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="958" cy="130" r="3.1" filter="url(#microGlow)"/>
-      <circle cx="930" cy="162" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="968" cy="196" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="976" cy="98" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="946" cy="114" r="3.1" fill="#9CDCFE" filter="url(#microGlow)"/>
-      <circle cx="1012" cy="134" r="3.1" fill="#DFF3FF" filter="url(#microGlow)"/>
-    </g>
+    <path d="M1018 116L976 98L946 114L958 130">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M1018 116L976 98L946 114L958 130;
+          M1015 113L973 95L943 112L955 127;
+          M1021 119L979 101L949 117L961 133;
+          M1017 117L975 97L945 113L957 129;
+          M1018 116L976 98L946 114L958 130" />
+    </path>
 
-    <circle cx="1038" cy="178" r="10" fill="#DFF3FF" fill-opacity="0.09">
-      <animate attributeName="r" values="8;12.5;8" dur="5.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.14;0.03;0.14" dur="5.6s" repeatCount="indefinite"/>
+    <path d="M976 98L1012 134L1060 96">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M976 98L1012 134L1060 96;
+          M973 95L1009 131L1057 93;
+          M979 101L1015 137L1063 99;
+          M975 97L1011 133L1059 95;
+          M976 98L1012 134L1060 96" />
+    </path>
+
+    <path d="M968 196L1012 134L1086 160">
+      <animate attributeName="d" dur="11s" repeatCount="indefinite"
+        values="
+          M968 196L1012 134L1086 160;
+          M965 193L1009 131L1083 157;
+          M971 200L1015 137L1089 164;
+          M967 197L1011 133L1085 161;
+          M968 196L1012 134L1086 160" />
+    </path>
+  </g>
+
+  <g fill="#DFF3FF">
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1060;1057;1063;1059;1060"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="96;93;99;95;96"/>
     </circle>
 
-    <circle cx="1012" cy="134" r="7.2" fill="#7CC7FF" fill-opacity="0.05">
-      <animate attributeName="r" values="5.2;8.2;5.2" dur="6.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.10;0.025;0.10" dur="6.8s" repeatCount="indefinite"/>
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1018;1015;1021;1017;1018"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="116;113;119;117;116"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="990;987;994;989;990"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="150;152;147;149;150"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1038;1035;1041;1037;1038"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="178;175;182;179;178"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1086;1083;1089;1085;1086"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="160;157;164;161;160"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1102;1099;1105;1101;1102"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="122;119;126;123;122"/>
+    </circle>
+
+    <circle r="3.1" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="958;955;961;957;958"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="130;127;133;129;130"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="930;927;934;929;930"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="162;164;159;161;162"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="968;965;971;967;968"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="196;193;200;197;196"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="976;973;979;975;976"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="98;95;101;97;98"/>
+    </circle>
+
+    <circle r="3.1" fill="#9CDCFE" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="946;943;949;945;946"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="114;112;117;113;114"/>
+    </circle>
+
+    <circle r="3.1" fill="#DFF3FF" filter="url(#microGlow)">
+      <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1012;1009;1015;1011;1012"/>
+      <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="134;131;137;133;134"/>
     </circle>
   </g>
+
+  <circle r="10" fill="#DFF3FF" fill-opacity="0.09">
+    <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1038;1035;1041;1037;1038"/>
+    <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="178;175;182;179;178"/>
+    <animate attributeName="r" values="8;12.5;8" dur="5.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.14;0.03;0.14" dur="5.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle r="7.2" fill="#7CC7FF" fill-opacity="0.05">
+    <animate attributeName="cx" dur="11s" repeatCount="indefinite" values="1012;1009;1015;1011;1012"/>
+    <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="134;131;137;133;134"/>
+    <animate attributeName="r" values="5.2;8.2;5.2" dur="6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.10;0.025;0.10" dur="6.8s" repeatCount="indefinite"/>
+  </circle>
 </g>
 
     <g opacity="0.5">
