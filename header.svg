@@ -1,49 +1,63 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="250" viewBox="0 0 1280 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Roham Hamidi GitHub Profile Header</title>
-  <desc id="desc">Premium GitHub profile header matched to the terminal frame, with a cleaner top bar, bolder name styling, and simplified text.</desc>
+  <desc id="desc">Premium GitHub profile header with a larger terminal-inspired frame, bold modern typography, and subtle network visuals showing connection, code, and intelligent systems.</desc>
 
   <defs>
-    <!-- exact terminal.svg shell -->
-    <linearGradient id="bg" x1="120" y1="0" x2="1080" y2="220" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="110" y1="0" x2="1170" y2="250" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050914"/>
       <stop offset="1" stop-color="#0A1324"/>
     </linearGradient>
 
-    <linearGradient id="stroke" x1="120" y1="20" x2="1080" y2="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.08"/>
+    <linearGradient id="stroke" x1="90" y1="18" x2="1190" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.09"/>
     </linearGradient>
 
-    <filter id="shadow" x="-20%" y="-40%" width="140%" height="200%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000814" flood-opacity="0.55"/>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="220%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#000814" flood-opacity="0.58"/>
     </filter>
 
-    <!-- subtle internal lighting adapted from the old header -->
-    <radialGradient id="orbLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 92) rotate(18) scale(280 120)">
-      <stop offset="0" stop-color="#6CB6FF" stop-opacity="0.22"/>
-      <stop offset="0.45" stop-color="#7CC7FF" stop-opacity="0.09"/>
+    <filter id="blurXL" x="-35%" y="-35%" width="170%" height="170%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+
+    <filter id="blurSoft" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+
+    <filter id="nameGlow" x="-30%" y="-80%" width="160%" height="280%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <filter id="microGlow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+    <radialGradient id="orbLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(245 106) rotate(18) scale(300 132)">
+      <stop offset="0" stop-color="#6CB6FF" stop-opacity="0.24"/>
+      <stop offset="0.46" stop-color="#7CC7FF" stop-opacity="0.1"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="orbRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 146) rotate(180) scale(260 110)">
-      <stop offset="0" stop-color="#9CDCFE" stop-opacity="0.14"/>
-      <stop offset="0.5" stop-color="#7CC7FF" stop-opacity="0.06"/>
+    <radialGradient id="orbRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1045 156) rotate(180) scale(290 124)">
+      <stop offset="0" stop-color="#9CDCFE" stop-opacity="0.16"/>
+      <stop offset="0.52" stop-color="#7CC7FF" stop-opacity="0.07"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="centerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 110) rotate(90) scale(86 520)">
-      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.08"/>
-      <stop offset="0.55" stop-color="#7CC7FF" stop-opacity="0.03"/>
+    <radialGradient id="centerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 125) rotate(90) scale(98 560)">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.085"/>
+      <stop offset="0.54" stop-color="#7CC7FF" stop-opacity="0.032"/>
       <stop offset="1" stop-color="#7CC7FF" stop-opacity="0"/>
     </radialGradient>
 
-    <linearGradient id="nameBase" x1="360" y1="70" x2="850" y2="160" gradientUnits="userSpaceOnUse">
+    <linearGradient id="nameBase" x1="390" y1="76" x2="892" y2="172" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E6EDF3"/>
       <stop offset="0.48" stop-color="#DFF3FF"/>
       <stop offset="1" stop-color="#9CDCFE"/>
     </linearGradient>
 
-    <linearGradient id="nameFlow" x1="280" y1="64" x2="900" y2="160" gradientUnits="userSpaceOnUse">
+    <linearGradient id="nameFlow" x1="300" y1="70" x2="980" y2="176" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E6EDF3"/>
       <stop offset="0.16" stop-color="#DFF3FF"/>
       <stop offset="0.34" stop-color="#9CDCFE"/>
@@ -51,34 +65,34 @@
       <stop offset="0.70" stop-color="#6CB6FF"/>
       <stop offset="0.86" stop-color="#DFF3FF"/>
       <stop offset="1" stop-color="#E6EDF3"/>
-      <animate attributeName="x1" values="250;760;250" dur="7.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
-      <animate attributeName="x2" values="870;1380;870" dur="7.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+      <animate attributeName="x1" values="280;820;280" dur="7.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+      <animate attributeName="x2" values="960;1500;960" dur="7.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
     </linearGradient>
 
-    <linearGradient id="subtitleGrad" x1="420" y1="148" x2="780" y2="148" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#B6C9D9"/>
+    <linearGradient id="subtitleGrad" x1="448" y1="176" x2="832" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#BFD3E2"/>
       <stop offset="1" stop-color="#8FB9D8"/>
     </linearGradient>
 
     <linearGradient id="chipFill" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.07"/>
-      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.025"/>
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.03"/>
     </linearGradient>
 
-    <filter id="blurXL" x="-35%" y="-35%" width="170%" height="170%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="24"/>
-    </filter>
+    <linearGradient id="networkStroke" x1="140" y1="64" x2="1140" y2="204" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7CC7FF" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#DFF3FF" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.18"/>
+    </linearGradient>
 
-    <filter id="nameGlow" x="-30%" y="-80%" width="160%" height="280%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-
-    <filter id="microGlow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
+    <linearGradient id="pulseGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DFF3FF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#DFF3FF" stop-opacity="0"/>
+    </linearGradient>
 
     <clipPath id="panelClip">
-      <rect x="60" y="20" width="1080" height="180" rx="22"/>
+      <rect x="50" y="18" width="1180" height="214" rx="24"/>
     </clipPath>
 
     <style>
@@ -89,80 +103,150 @@
     </style>
   </defs>
 
-  <!-- exact terminal.svg container -->
   <g filter="url(#shadow)">
-    <rect x="60" y="20" width="1080" height="180" rx="22" fill="url(#bg)"/>
-    <rect x="60.75" y="20.75" width="1078.5" height="178.5" rx="21.25" stroke="url(#stroke)" stroke-width="1.5"/>
+    <rect x="50" y="18" width="1180" height="214" rx="24" fill="url(#bg)"/>
+    <rect x="50.75" y="18.75" width="1178.5" height="212.5" rx="23.25" stroke="url(#stroke)" stroke-width="1.5"/>
   </g>
 
   <g clip-path="url(#panelClip)">
-    <!-- ambient lighting -->
-    <rect x="60" y="20" width="1080" height="180" rx="22" fill="url(#centerGlow)" opacity="0.9">
+    <rect x="50" y="18" width="1180" height="214" rx="24" fill="url(#centerGlow)" opacity="0.9">
       <animate attributeName="opacity" values="0.72;0.95;0.72" dur="10s" repeatCount="indefinite"/>
     </rect>
 
-    <ellipse cx="230" cy="92" rx="230" ry="96" fill="url(#orbLeft)" filter="url(#blurXL)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 10 -6; 0 0" dur="14s" repeatCount="indefinite"/>
+    <ellipse cx="245" cy="106" rx="248" ry="106" fill="url(#orbLeft)" filter="url(#blurXL)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 11 -7; 0 0" dur="14s" repeatCount="indefinite"/>
     </ellipse>
 
-    <ellipse cx="970" cy="146" rx="220" ry="92" fill="url(#orbRight)" filter="url(#blurXL)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; -10 6; 0 0" dur="16s" repeatCount="indefinite"/>
+    <ellipse cx="1045" cy="156" rx="240" ry="104" fill="url(#orbRight)" filter="url(#blurXL)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -11 7; 0 0" dur="16s" repeatCount="indefinite"/>
     </ellipse>
 
-    <g opacity="0.08">
-      <path d="M806 34C904 70 982 118 1062 176" stroke="#8FB9D8" stroke-width="1"/>
-      <path d="M118 168C252 144 404 136 566 138" stroke="#6CB6FF" stroke-width="1"/>
-      <path d="M642 176C784 162 920 146 1068 96" stroke="#DFF3FF" stroke-opacity="0.65" stroke-width="1"/>
+    <!-- subtle framing lines -->
+    <g opacity="0.09">
+      <path d="M870 36C978 72 1068 126 1162 196" stroke="#8FB9D8" stroke-width="1.1"/>
+      <path d="M120 188C274 160 438 149 620 152" stroke="#6CB6FF" stroke-width="1.1"/>
+      <path d="M690 196C840 181 978 160 1162 102" stroke="#DFF3FF" stroke-opacity="0.65" stroke-width="1.1"/>
       <animateTransform attributeName="transform" type="translate" values="0 0; 3 -2; 0 0" dur="18s" repeatCount="indefinite"/>
     </g>
 
-    <!-- floating chips -->
-    <g opacity="0.46">
-      <g transform="translate(220 104)">
-        <rect x="-42" y="-16" width="84" height="32" rx="14" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.07"/>
-        <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="16" font-weight="600" fill="#9CDCFE" fill-opacity="0.66">&lt;/&gt;</text>
+    <!-- network constellation left -->
+    <g opacity="0.56">
+      <g stroke="url(#networkStroke)" stroke-width="1.2" stroke-linecap="round">
+        <path d="M144 70L188 90L162 126L214 148L254 118L228 78L188 90"/>
+        <path d="M228 78L274 62L308 96L254 118"/>
+        <path d="M162 126L126 154L168 178L214 148L252 180"/>
+      </g>
+      <g fill="#DFF3FF">
+        <circle cx="144" cy="70" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="188" cy="90" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="162" cy="126" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="214" cy="148" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="254" cy="118" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="228" cy="78" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="274" cy="62" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="308" cy="96" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="126" cy="154" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="168" cy="178" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="252" cy="180" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+      </g>
+      <circle cx="188" cy="90" r="10" fill="#7CC7FF" fill-opacity="0.1">
+        <animate attributeName="r" values="7;12;7" dur="4.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.18;0.04;0.18" dur="4.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- network constellation right -->
+    <g opacity="0.54">
+      <g stroke="url(#networkStroke)" stroke-width="1.2" stroke-linecap="round">
+        <path d="M1138 72L1094 94L1068 132L1116 156L1168 136L1186 96L1138 72"/>
+        <path d="M1068 132L1022 110L990 146L1038 176L1116 156"/>
+        <path d="M1094 94L1048 70L1006 88L1022 110"/>
+      </g>
+      <g fill="#DFF3FF">
+        <circle cx="1138" cy="72" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="1094" cy="94" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="1068" cy="132" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="1116" cy="156" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="1168" cy="136" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="1186" cy="96" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="1022" cy="110" r="3.2" filter="url(#microGlow)"/>
+        <circle cx="990" cy="146" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="1038" cy="176" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="1048" cy="70" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+        <circle cx="1006" cy="88" r="3.2" fill="#9CDCFE" filter="url(#microGlow)"/>
+      </g>
+      <circle cx="1116" cy="156" r="10" fill="#DFF3FF" fill-opacity="0.09">
+        <animate attributeName="r" values="8;13;8" dur="5.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.16;0.03;0.16" dur="5.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- premium floating chips / symbols -->
+    <g opacity="0.5">
+      <g transform="translate(308 66)">
+        <rect x="-54" y="-17" width="108" height="34" rx="15" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.08"/>
+        <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="15.5" font-weight="700" fill="#9CDCFE" fill-opacity="0.68">&lt;/&gt;  sync</text>
       </g>
 
-      <g transform="translate(982 106)">
-        <rect x="-36" y="-16" width="72" height="32" rx="14" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.07"/>
-        <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="16" font-weight="600" fill="#9CDCFE" fill-opacity="0.64">{ }</text>
+      <g transform="translate(972 70)">
+        <rect x="-54" y="-17" width="108" height="34" rx="15" fill="url(#chipFill)" stroke="#DFF3FF" stroke-opacity="0.08"/>
+        <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="15.5" font-weight="700" fill="#9CDCFE" fill-opacity="0.68">node  { }</text>
       </g>
     </g>
 
-    <!-- decorative dots -->
-    <g opacity="0.66">
-      <circle cx="300" cy="78" r="3.2" fill="#E6EDF3" filter="url(#microGlow)">
-        <animate attributeName="cy" values="78;70;78" dur="7.2s" repeatCount="indefinite"/>
+    <!-- central connection arc visuals -->
+    <g opacity="0.26">
+      <path d="M392 82C462 66 540 58 640 58C740 58 818 66 888 82" stroke="#7CC7FF" stroke-opacity="0.18" stroke-width="1.2"/>
+      <path d="M380 172C458 188 544 196 640 196C736 196 822 188 900 172" stroke="#7CC7FF" stroke-opacity="0.16" stroke-width="1.2"/>
+      <circle cx="640" cy="58" r="2.8" fill="#DFF3FF">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="4.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="930" cy="150" r="3.2" fill="#DFF3FF" filter="url(#microGlow)">
-        <animate attributeName="cy" values="150;142;150" dur="7.8s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="980" cy="92" r="2.8" fill="#9CDCFE" filter="url(#microGlow)">
-        <animate attributeName="cx" values="980;972;980" dur="9s" repeatCount="indefinite"/>
+      <circle cx="640" cy="196" r="2.8" fill="#9CDCFE">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="5.4s" repeatCount="indefinite"/>
       </circle>
     </g>
 
     <!-- title -->
     <g filter="url(#nameGlow)" opacity="0.19">
-      <text x="600" y="112" text-anchor="middle" fill="#7CC7FF" font-size="56" font-weight="820" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
-      <animate attributeName="opacity" values="0.15;0.26;0.15" dur="8s" repeatCount="indefinite"/>
+      <text x="640" y="122" text-anchor="middle" fill="#7CC7FF" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+      <animate attributeName="opacity" values="0.15;0.27;0.15" dur="8s" repeatCount="indefinite"/>
     </g>
 
-    <text x="600" y="112" text-anchor="middle" fill="url(#nameBase)" font-size="56" font-weight="820" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
-    <text x="600" y="112" text-anchor="middle" fill="url(#nameFlow)" opacity="0.92" font-size="56" font-weight="820" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+    <text x="640" y="122" text-anchor="middle" fill="url(#nameBase)" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
+    <text x="640" y="122" text-anchor="middle" fill="url(#nameFlow)" opacity="0.94" font-size="60" font-weight="840" class="font-display" letter-spacing="0.008em">Roham Hamidi</text>
 
-    <text x="600" y="154" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="14" font-weight="650" class="font-ui caps">PROGRAMMER  •  HACKER  •  AI ENTHUSIAST</text>
+    <text x="640" y="169" text-anchor="middle" dominant-baseline="middle" fill="url(#subtitleGrad)" font-size="14.5" font-weight="690" class="font-ui caps">PROGRAMMER  •  HACKER  •  AI ENTHUSIAST</text>
 
-    <g opacity="0.16">
-      <path d="M340 164H492" stroke="#7CC7FF" stroke-opacity="0.16" stroke-width="1.1"/>
-      <path d="M708 164H860" stroke="#7CC7FF" stroke-opacity="0.16" stroke-width="1.1"/>
-      <circle cx="510" cy="164" r="2.5" fill="#6CB6FF" fill-opacity="0.74">
-        <animate attributeName="opacity" values="0.38;0.82;0.38" dur="5.8s" repeatCount="indefinite"/>
+    <!-- footer connectors -->
+    <g opacity="0.18">
+      <path d="M356 182H522" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
+      <path d="M758 182H924" stroke="#7CC7FF" stroke-opacity="0.17" stroke-width="1.1"/>
+      <path d="M522 182C552 182 560 171 586 171H694C720 171 728 182 758 182" stroke="#DFF3FF" stroke-opacity="0.16" stroke-width="1.05"/>
+      <circle cx="540" cy="182" r="2.6" fill="#6CB6FF" fill-opacity="0.76">
+        <animate attributeName="opacity" values="0.36;0.88;0.36" dur="5.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="690" cy="164" r="2.5" fill="#DFF3FF" fill-opacity="0.72">
-        <animate attributeName="opacity" values="0.36;0.84;0.36" dur="6.4s" repeatCount="indefinite"/>
+      <circle cx="740" cy="182" r="2.6" fill="#DFF3FF" fill-opacity="0.74">
+        <animate attributeName="opacity" values="0.34;0.86;0.34" dur="6.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="171" r="2.4" fill="#9CDCFE" fill-opacity="0.72">
+        <animate attributeName="opacity" values="0.32;0.9;0.32" dur="5.2s" repeatCount="indefinite"/>
       </circle>
     </g>
 
+    <!-- tiny drifting particles -->
+    <g opacity="0.7">
+      <circle cx="342" cy="88" r="2.8" fill="#E6EDF3" filter="url(#microGlow)">
+        <animate attributeName="cy" values="88;80;88" dur="7.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="946" cy="162" r="2.8" fill="#DFF3FF" filter="url(#microGlow)">
+        <animate attributeName="cy" values="162;154;162" dur="7.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="994" cy="104" r="2.6" fill="#9CDCFE" filter="url(#microGlow)">
+        <animate attributeName="cx" values="994;986;994" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="286" cy="154" r="2.5" fill="#9CDCFE" filter="url(#microGlow)">
+        <animate attributeName="cx" values="286;294;286" dur="8.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
   </g>
 </svg>
