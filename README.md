@@ -8,10 +8,6 @@
   <img src="./terminal.svg" alt="Terminal Intro" width="900"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=profile%20views&color=7CC7FF&style=flat-square&abbreviated=true" />
-</p>
-
 ---
 
 ## `~/tech_stack`
@@ -77,4 +73,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:060B18,50:0D47A1,100:060B18" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=profile%20views&color=7CC7FF&style=flat-square&abbreviated=true" />
 </p>
