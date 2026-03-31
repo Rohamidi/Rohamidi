@@ -1,35 +1,53 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Core Toolkit</title>
-  <desc id="desc">A premium glassmorphic technology stack section for Roham Hamidi's GitHub profile.</desc>
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technology Orbit</title>
+  <desc id="desc">A premium glassmorphic solar-system style technology showcase for Roham Hamidi's GitHub profile.</desc>
 
   <defs>
-    <linearGradient id="panelFill" x1="60" y1="24" x2="1140" y2="406" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panelFill" x1="60" y1="24" x2="1140" y2="496" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050914" stop-opacity="0.24"/>
       <stop offset="0.55" stop-color="#08101D" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0.12"/>
     </linearGradient>
 
-    <linearGradient id="panelStroke" x1="60" y1="24" x2="1140" y2="406" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panelStroke" x1="60" y1="24" x2="1140" y2="496" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.08"/>
     </linearGradient>
 
-    <linearGradient id="innerStroke" x1="84" y1="48" x2="1116" y2="382" gradientUnits="userSpaceOnUse">
+    <linearGradient id="innerStroke" x1="84" y1="48" x2="1116" y2="472" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.025"/>
     </linearGradient>
 
-    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 98) rotate(24) scale(260 160)">
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 108) rotate(24) scale(280 180)">
       <stop offset="0" stop-color="#6CB6FF" stop-opacity="0.22"/>
       <stop offset="0.45" stop-color="#7CC7FF" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1015 330) rotate(180) scale(290 180)">
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1035 390) rotate(180) scale(310 200)">
       <stop offset="0" stop-color="#9CDCFE" stop-opacity="0.14"/>
       <stop offset="0.5" stop-color="#7CC7FF" stop-opacity="0.06"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0"/>
     </radialGradient>
+
+    <radialGradient id="coreGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 260) scale(210 210)">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.34"/>
+      <stop offset="0.42" stop-color="#7CC7FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="coreFill" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(572 228) rotate(45) scale(140 140)">
+      <stop offset="0" stop-color="#E6EDF3"/>
+      <stop offset="0.38" stop-color="#DFF3FF"/>
+      <stop offset="0.72" stop-color="#9CDCFE"/>
+      <stop offset="1" stop-color="#6CB6FF"/>
+    </radialGradient>
+
+    <linearGradient id="coreStroke" x1="530" y1="200" x2="670" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.60"/>
+      <stop offset="1" stop-color="#DFF3FF" stop-opacity="0.18"/>
+    </linearGradient>
 
     <linearGradient id="titleGrad" x1="430" y1="0" x2="770" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E6EDF3"/>
@@ -43,19 +61,14 @@
       <stop offset="1" stop-color="#7CC7FF" stop-opacity="0"/>
     </linearGradient>
 
-    <linearGradient id="cardFill" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.055"/>
-      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.02"/>
+    <linearGradient id="satFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.03"/>
     </linearGradient>
 
-    <linearGradient id="cardStroke" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.04"/>
-    </linearGradient>
-
-    <linearGradient id="iconFill" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7CC7FF" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#9CDCFE" stop-opacity="0.08"/>
+    <linearGradient id="satStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DFF3FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7CC7FF" stop-opacity="0.06"/>
     </linearGradient>
 
     <filter id="panelShadow" x="-20%" y="-25%" width="140%" height="160%" color-interpolation-filters="sRGB">
@@ -66,18 +79,30 @@
       <feGaussianBlur stdDeviation="18"/>
     </filter>
 
+    <filter id="coreShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#2B7FFF" flood-opacity="0.35"/>
+    </filter>
+
+    <filter id="satGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#7CC7FF" flood-opacity="0.14"/>
+    </filter>
+
     <filter id="microGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
+
+    <clipPath id="panelClip">
+      <rect x="60" y="24" width="1080" height="472" rx="36"/>
+    </clipPath>
 
     <style>
       .font-display { font-family: "SF Pro Display", "Inter", "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
       .font-ui { font-family: "SF Pro Text", "Inter", "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
       .font-mono { font-family: "SF Mono", "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace; }
 
-      .float-a { animation: floatA 10s ease-in-out infinite; }
-      .float-b { animation: floatB 12s ease-in-out infinite; }
-      .pulse { animation: pulse 5s ease-in-out infinite; }
+      .float-a { animation: floatA 11s ease-in-out infinite; }
+      .float-b { animation: floatB 13s ease-in-out infinite; }
+      .pulse { animation: pulse 5.8s ease-in-out infinite; }
 
       @keyframes floatA {
         0%,100% { transform: translateY(0px); }
@@ -90,7 +115,7 @@
       }
 
       @keyframes pulse {
-        0%,100% { opacity: 0.5; }
+        0%,100% { opacity: 0.45; }
         50% { opacity: 0.95; }
       }
     </style>
@@ -98,131 +123,185 @@
 
   <!-- transparent outside -->
 
-  <!-- main glass panel -->
+  <!-- panel -->
   <g filter="url(#panelShadow)">
-    <rect x="60" y="24" width="1080" height="382" rx="36" fill="url(#panelFill)"/>
-    <rect x="60.75" y="24.75" width="1078.5" height="380.5" rx="35.25" stroke="url(#panelStroke)" stroke-width="1.5"/>
-    <rect x="76" y="40" width="1048" height="350" rx="28" stroke="url(#innerStroke)" stroke-width="1"/>
+    <rect x="60" y="24" width="1080" height="472" rx="36" fill="url(#panelFill)"/>
+    <rect x="60.75" y="24.75" width="1078.5" height="470.5" rx="35.25" stroke="url(#panelStroke)" stroke-width="1.5"/>
+    <rect x="76" y="40" width="1048" height="440" rx="28" stroke="url(#innerStroke)" stroke-width="1"/>
   </g>
 
-  <!-- inner ambient lights -->
-  <g clip-path="url(#clip)">
-    <ellipse cx="160" cy="98" rx="260" ry="160" fill="url(#glowLeft)" filter="url(#softGlow)" class="float-a"/>
-    <ellipse cx="1015" cy="330" rx="290" ry="180" fill="url(#glowRight)" filter="url(#softGlow)" class="float-b"/>
+  <g clip-path="url(#panelClip)">
+    <!-- ambient background -->
+    <ellipse cx="170" cy="108" rx="280" ry="180" fill="url(#glowLeft)" filter="url(#softGlow)" class="float-a"/>
+    <ellipse cx="1035" cy="390" rx="310" ry="200" fill="url(#glowRight)" filter="url(#softGlow)" class="float-b"/>
+
+    <!-- title -->
+    <text x="600" y="78" text-anchor="middle" class="font-display" font-size="30" font-weight="700" fill="url(#titleGrad)">
+      Technology Orbit
+    </text>
+
+    <text x="600" y="103" text-anchor="middle" class="font-ui" font-size="13" font-weight="500" letter-spacing="0.18em" fill="#8FB9D8">
+      CORE TOOLS IN MOTION
+    </text>
+
+    <rect x="450" y="118" width="300" height="1.4" rx="0.7" fill="url(#lineGrad)" class="pulse"/>
+
+    <!-- stars -->
+    <circle cx="122" cy="72" r="2.6" fill="#DFF3FF" opacity="0.8"/>
+    <circle cx="1090" cy="78" r="2.2" fill="#9CDCFE" opacity="0.58"/>
+    <circle cx="1088" cy="446" r="3" fill="#7CC7FF" opacity="0.55"/>
+    <circle cx="110" cy="448" r="2.2" fill="#8FB9D8" opacity="0.42"/>
+    <circle cx="220" cy="186" r="2.1" fill="#7CC7FF" filter="url(#microGlow)">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="984" cy="162" r="2.1" fill="#DFF3FF" filter="url(#microGlow)">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- orbit guides -->
+    <circle cx="600" cy="276" r="84" stroke="#7CC7FF" stroke-opacity="0.16" stroke-width="1.2"/>
+    <circle cx="600" cy="276" r="132" stroke="#7CC7FF" stroke-opacity="0.12" stroke-width="1.1"/>
+    <circle cx="600" cy="276" r="182" stroke="#7CC7FF" stroke-opacity="0.10" stroke-width="1"/>
+
+    <!-- center glow -->
+    <circle cx="600" cy="276" r="112" fill="url(#coreGlow)" opacity="0.9"/>
+
+    <!-- center planet -->
+    <g filter="url(#coreShadow)">
+      <circle cx="600" cy="276" r="58" fill="url(#coreFill)" stroke="url(#coreStroke)" stroke-width="1.6"/>
+      <circle cx="600" cy="276" r="74" stroke="#DFF3FF" stroke-opacity="0.16" stroke-width="1.2"/>
+      <ellipse cx="578" cy="250" rx="22" ry="11" fill="#FFFFFF" fill-opacity="0.22"/>
+    </g>
+
+    <text x="600" y="269" text-anchor="middle" class="font-display" font-size="28" font-weight="800" fill="#05101C">RH</text>
+    <text x="600" y="292" text-anchor="middle" class="font-ui" font-size="11.5" font-weight="700" letter-spacing="0.14em" fill="#103355">STACK CORE</text>
+
+    <!-- ring 1 -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 600 276;360 600 276" dur="18s" repeatCount="indefinite"/>
+
+      <!-- Python -->
+      <g transform="translate(600 276) rotate(0) translate(84 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="18s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/python/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Linux -->
+      <g transform="translate(600 276) rotate(120) translate(84 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="18s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/linux/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- GitHub -->
+      <g transform="translate(600 276) rotate(240) translate(84 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="18s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/github/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- ring 2 -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="360 600 276;0 600 276" dur="25s" repeatCount="indefinite"/>
+
+      <!-- Bash -->
+      <g transform="translate(600 276) rotate(18) translate(132 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="25s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/gnubash/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Git -->
+      <g transform="translate(600 276) rotate(138) translate(132 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="25s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/git/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- HTML5 -->
+      <g transform="translate(600 276) rotate(258) translate(132 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="25s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="28" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="18" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/html5/9CDCFE" x="-11" y="-11" width="22" height="22" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- ring 3 -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 600 276;360 600 276" dur="34s" repeatCount="indefinite"/>
+
+      <!-- Kali Linux -->
+      <g transform="translate(600 276) rotate(32) translate(182 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="34s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="30" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="19" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/kalilinux/9CDCFE" x="-11.5" y="-11.5" width="23" height="23" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- Arduino -->
+      <g transform="translate(600 276) rotate(152) translate(182 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="34s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="30" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="19" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/arduino/9CDCFE" x="-11.5" y="-11.5" width="23" height="23" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+
+      <!-- CSS3 -->
+      <g transform="translate(600 276) rotate(272) translate(182 0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="34s" repeatCount="indefinite"/>
+          <g filter="url(#satGlow)">
+            <circle r="30" fill="url(#satFill)" stroke="url(#satStroke)" stroke-width="1.2"/>
+            <circle r="19" fill="#050914" fill-opacity="0.38"/>
+            <image href="https://cdn.simpleicons.org/css/9CDCFE" x="-11.5" y="-11.5" width="23" height="23" preserveAspectRatio="xMidYMid meet"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- bottom legend -->
+    <text x="600" y="456" text-anchor="middle" class="font-ui" font-size="13" font-weight="600" fill="#8FB9D8" letter-spacing="0.06em">
+      PYTHON · LINUX · KALI LINUX · BASH · GIT · GITHUB · ARDUINO · HTML5 · CSS3
+    </text>
   </g>
-
-  <!-- title -->
-  <text x="600" y="78" text-anchor="middle" class="font-display" font-size="30" font-weight="700" fill="url(#titleGrad)">
-    Core Toolkit
-  </text>
-
-  <text x="600" y="103" text-anchor="middle" class="font-ui" font-size="13" font-weight="500" letter-spacing="0.18em" fill="#8FB9D8">
-    SYSTEMS · DEVELOPMENT · SECURITY · WEB
-  </text>
-
-  <rect x="435" y="118" width="330" height="1.4" rx="0.7" fill="url(#lineGrad)" class="pulse"/>
-
-  <!-- cards row 1 -->
-  <!-- Python -->
-  <g transform="translate(120 150)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="16" font-weight="700" fill="#9CDCFE">py</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Python</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Core programming</text>
-    <circle cx="156" cy="24" r="3" fill="#57D364"/>
-  </g>
-
-  <!-- Linux -->
-  <g transform="translate(320 150)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="16" font-weight="700" fill="#9CDCFE">lx</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Linux</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">System environment</text>
-  </g>
-
-  <!-- Kali -->
-  <g transform="translate(520 150)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="15" font-weight="700" fill="#9CDCFE">kali</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Kali Linux</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Security workspace</text>
-  </g>
-
-  <!-- Bash -->
-  <g transform="translate(720 150)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="16" font-weight="700" fill="#9CDCFE">$_</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Bash</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Terminal workflow</text>
-  </g>
-
-  <!-- Git -->
-  <g transform="translate(920 150)">
-    <rect x="0" y="0" width="160" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="16" font-weight="700" fill="#9CDCFE">git</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Git</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Version control</text>
-  </g>
-
-  <!-- cards row 2 -->
-  <!-- GitHub -->
-  <g transform="translate(120 262)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="13.5" font-weight="700" fill="#9CDCFE">gh</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">GitHub</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Projects and repos</text>
-  </g>
-
-  <!-- Arduino -->
-  <g transform="translate(320 262)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="14" font-weight="700" fill="#9CDCFE">io</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">Arduino</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Hardware projects</text>
-  </g>
-
-  <!-- HTML5 -->
-  <g transform="translate(520 262)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="14" font-weight="700" fill="#9CDCFE">&lt;5&gt;</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">HTML5</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Structure and markup</text>
-  </g>
-
-  <!-- CSS3 -->
-  <g transform="translate(720 262)">
-    <rect x="0" y="0" width="180" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <rect x="16" y="16" width="42" height="42" rx="14" fill="url(#iconFill)"/>
-    <text x="37" y="43" text-anchor="middle" class="font-mono" font-size="14" font-weight="700" fill="#9CDCFE">{ }</text>
-    <text x="72" y="34" class="font-ui" font-size="18" font-weight="700" fill="#E6EDF3">CSS3</text>
-    <text x="72" y="56" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Interface styling</text>
-  </g>
-
-  <!-- center summary card -->
-  <g transform="translate(920 262)">
-    <rect x="0" y="0" width="160" height="92" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)"/>
-    <text x="20" y="30" class="font-mono" font-size="12.5" font-weight="600" fill="#8FB9D8">$ stack</text>
-    <text x="20" y="52" class="font-ui" font-size="16" font-weight="700" fill="#E6EDF3">9 tools</text>
-    <text x="20" y="72" class="font-ui" font-size="12.5" font-weight="500" fill="#8FB9D8">Practical, daily-use setup</text>
-  </g>
-
-  <!-- tiny lights -->
-  <circle cx="104" cy="54" r="3.5" fill="#7CC7FF" opacity="0.8"/>
-  <circle cx="1098" cy="372" r="3.5" fill="#9CDCFE" opacity="0.65"/>
-  <circle cx="1084" cy="62" r="2.8" fill="#DFF3FF" opacity="0.5"/>
-  <circle cx="98" cy="360" r="2.8" fill="#8FB9D8" opacity="0.42"/>
-
-  <defs>
-    <clipPath id="clip">
-      <rect x="60" y="24" width="1080" height="382" rx="36"/>
-    </clipPath>
-  </defs>
 </svg>
