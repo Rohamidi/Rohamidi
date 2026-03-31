@@ -10,18 +10,10 @@
 
 ---
 
-## `~/tech_stack`
+## `~/toolkit`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-060B18?style=for-the-badge&logo=python&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Linux-060B18?style=for-the-badge&logo=linux&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Kali_Linux-060B18?style=for-the-badge&logo=kalilinux&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Bash-060B18?style=for-the-badge&logo=gnubash&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Git-060B18?style=for-the-badge&logo=git&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/GitHub-060B18?style=for-the-badge&logo=github&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Arduino-060B18?style=for-the-badge&logo=arduino&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/HTML5-060B18?style=for-the-badge&logo=html5&logoColor=42A5F5" />
-  <img src="https://img.shields.io/badge/CSS3-060B18?style=for-the-badge&logo=css3&logoColor=42A5F5" />
+<p align="center">
+  <img src="./stack.svg" alt="Core Toolkit" width="900"/>
 </p>
 
 ---
