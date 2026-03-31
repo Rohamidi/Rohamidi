@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=profile%20views&color=6CB6FF&style=flat-square" />
+  <img src="./views-pill.svg" alt="Profile Views" width="260"/>
 </p>
 
 ---
