@@ -16,25 +16,16 @@
   <img src="./stack.svg" alt="Core Toolkit" width="900"/>
 </p>
 
----
-
-## `~/analytics`
+## `~/stats`
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="900"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&bg_color=060B18&title_color=42A5F5&text_color=90CAF9&icon_color=42A5F5&border_color=1565C0&border_radius=10&count_private=true&include_all_commits=true" height="175" alt="Rohamidi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&bg_color=060B18&title_color=42A5F5&text_color=90CAF9&border_color=1565C0&border_radius=10&langs_count=5" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="445"/>
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="445"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohamidi&background=060B18&border=1565C0&stroke=1565C0&ring=42A5F5&fire=29B6F6&currStreakNum=42A5F5&currStreakLabel=42A5F5&sideNums=90CAF9&sideLabels=90CAF9&dates=90CAF9&borderRadius=10" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="445"/>
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="445"/>
-</p>
-
----
 
 ## `~/contributions`
 
