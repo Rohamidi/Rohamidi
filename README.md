@@ -18,15 +18,20 @@
 
 ---
 
-## `~/stats`
+## `~/analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&theme=transparent&border_color=1565C0&icon_color=42A5F5&title_color=42A5F5&text_color=90CAF9&bg_color=060B18&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&theme=transparent&border_color=1565C0&title_color=42A5F5&text_color=90CAF9&bg_color=060B18" height="165"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohamidi&theme=transparent&background=060B18&border=1565C0&ring=42A5F5&fire=29B6F6&currStreakLabel=42A5F5&sideLabels=90CAF9&dates=90CAF9" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="445"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="445"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="445"/>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="445"/>
 </p>
 
 ---
