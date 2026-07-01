@@ -100,8 +100,6 @@
 
 ---
 
----
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE%20VIEWS&color=0A1324&style=for-the-badge&abbreviated=true"
@@ -112,13 +110,14 @@
 
 <p align="center">
   <sub>
-    <code>thanks for visiting • keep building • keep learning</code>
+    <code>Thanks for visiting • keep building • keep learning</code>
   </sub>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:060B18,50:0D47A1,100:060B18"
-    alt="Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:050914,35:0A1324,70:0D47A1,100:050914&text=Keep%20Building&fontColor=DFF3FF&fontSize=22&fontAlignY=68&animation=twinkling&desc=code%20%E2%80%A2%20learn%20%E2%80%A2%20create%20%E2%80%A2%20repeat&descAlignY=88&descSize=13"
+    width="900"
+    alt="Premium Footer"
   />
 </p>
