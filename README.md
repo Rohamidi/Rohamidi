@@ -100,10 +100,25 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:060B18,50:0D47A1,100:060B18" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE%20VIEWS&color=0A1324&style=for-the-badge&abbreviated=true"
+    height="32"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohamidi&label=profile%20views&color=7CC7FF&style=flat-square&abbreviated=true" />
+  <sub>
+    <code>thanks for visiting • keep building • keep learning</code>
+  </sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:060B18,50:0D47A1,100:060B18"
+    alt="Footer"
+  />
 </p>
