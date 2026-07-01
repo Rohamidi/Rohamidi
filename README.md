@@ -110,7 +110,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:050914,35:0A1324,70:0D47A1,100:050914&text=Thanks%20for%20visiting&fontColor=DFF3FF&fontSize=24&fontAlignY=64&animation=twinkling&desc=keep%20building%20%E2%80%A2%20keep%20learning&descAlignY=84&descSize=14"
+    src="./footer.svg"
     width="900"
     alt="Premium Footer"
   />
