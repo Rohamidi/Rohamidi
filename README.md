@@ -18,24 +18,28 @@
 
 ## `~/stats`
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;border_radius=22&amp;border_color=1B3A5A&amp;bg_color=45,050914,0A1324&amp;title_color=DFF3FF&amp;text_color=BFD3E2&amp;icon_color=7CC7FF&amp;rank_icon=github&amp;line_height=26&amp;custom_title=GitHub%20Stats&amp;card_width=445"
-    width="445"
-    height="205"
-    alt="Rohamidi's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_radius=22&amp;border_color=1B3A5A&amp;bg_color=45,050914,0A1324&amp;title_color=DFF3FF&amp;text_color=BFD3E2&amp;icon_color=7CC7FF&amp;custom_title=Top%20Languages&amp;card_width=445"
-    width="445"
-    height="205"
-    alt="Top Languages"
-  />
-</p>
+<table align="center" width="900">
+  <tr>
+    <td width="450" align="center">
+      <img
+        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&rank_icon=github&line_height=26&custom_title=GitHub%20Stats&card_width=450"
+        width="450"
+        alt="Rohamidi's GitHub Stats"
+      />
+    </td>
+    <td width="450" align="center">
+      <img
+        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&langs_count=6&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&custom_title=Top%20Languages&card_width=450"
+        width="450"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Rohamidi&amp;background=050914&amp;border=1B3A5A&amp;stroke=1B3A5A&amp;ring=7CC7FF&amp;fire=9CDCFE&amp;currStreakNum=DFF3FF&amp;currStreakLabel=9CDCFE&amp;sideNums=BFD3E2&amp;sideLabels=8FB9D8&amp;dates=8FB9D8&amp;border_radius=22&amp;card_width=900"
+    src="https://streak-stats.demolab.com/?user=Rohamidi&background=050914&border=1B3A5A&stroke=1B3A5A&ring=7CC7FF&fire=9CDCFE&currStreakNum=DFF3FF&currStreakLabel=9CDCFE&sideNums=BFD3E2&sideLabels=8FB9D8&dates=8FB9D8&border_radius=22"
     width="900"
     alt="GitHub Streak"
   />
