@@ -36,7 +36,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Rohamidi&amp;background=050914&amp;border=1B3A5A&amp;stroke=1B3A5A&amp;ring=7CC7FF&amp;fire=9CDCFE&amp;currStreakNum=DFF3FF&amp;currStreakLabel=9CDCFE&amp;sideNums=BFD3E2&amp;sideLabels=8FB9D8&amp;dates=8FB9D8&amp;border_radius=22&amp;card_width=748"
+    src="https://streak-stats.demolab.com/?user=Rohamidi&amp;background=45,050914,0A1324&amp;border=1B3A5A&amp;stroke=1B3A5A&amp;ring=7CC7FF&amp;fire=9CDCFE&amp;currStreakNum=DFF3FF&amp;currStreakLabel=8FB9D8&amp;sideNums=BFD3E2&amp;sideLabels=8FB9D8&amp;dates=BFD3E2&amp;border_radius=22&amp;card_width=748"
     width="748"
     alt="GitHub Streak"
   />
