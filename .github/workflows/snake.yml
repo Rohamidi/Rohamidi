@@ -2,23 +2,24 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write # important: allows pushing to the repo
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate the Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Rohamidi
           outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./output/github-contribution-grid-snake.svg?color_snake=%237CC7FF&color_dots=%23050914,%230A1324,%23112B45,%231B3A5A,%23DFF3FF
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%237CC7FF&color_dots=%23050914,%230A1324,%23112B45,%231B3A5A,%23DFF3FF
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
