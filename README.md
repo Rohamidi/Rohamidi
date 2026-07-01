@@ -45,7 +45,11 @@
 ## `~/contributions`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg"
+    width="748"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
