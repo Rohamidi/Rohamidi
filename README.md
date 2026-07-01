@@ -109,14 +109,8 @@
 </p>
 
 <p align="center">
-  <sub>
-    <code>Thanks for visiting • keep building • keep learning</code>
-  </sub>
-</p>
-
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:050914,35:0A1324,70:0D47A1,100:050914&text=Keep%20Building&fontColor=DFF3FF&fontSize=22&fontAlignY=68&animation=twinkling&desc=code%20%E2%80%A2%20learn%20%E2%80%A2%20create%20%E2%80%A2%20repeat&descAlignY=88&descSize=13"
+    src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:050914,35:0A1324,70:0D47A1,100:050914&text=Thanks%20for%20visiting&fontColor=DFF3FF&fontSize=24&fontAlignY=64&animation=twinkling&desc=keep%20building%20%E2%80%A2%20keep%20learning&descAlignY=84&descSize=14"
     width="900"
     alt="Premium Footer"
   />
