@@ -1,6 +1,6 @@
-<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="225" viewBox="0 0 1200 225" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footerBg" x1="52" y1="28" x2="1148" y2="168" gradientUnits="userSpaceOnUse">
+    <linearGradient id="footerBg" x1="52" y1="28" x2="1148" y2="178" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#050914"/>
       <stop offset="42%" stop-color="#0A1324"/>
       <stop offset="72%" stop-color="#0D47A1" stop-opacity="0.72"/>
@@ -54,18 +54,18 @@
   </defs>
 
   <!-- Card -->
-  <rect x="52" y="28" width="1096" height="142" rx="26" fill="url(#footerBg)" filter="url(#softShadow)"/>
-  <rect x="52.5" y="28.5" width="1095" height="141" rx="25.5" stroke="#1B3A5A" stroke-opacity="0.85"/>
+  <rect x="52" y="28" width="1096" height="152" rx="26" fill="url(#footerBg)" filter="url(#softShadow)"/>
+  <rect x="52.5" y="28.5" width="1095" height="151" rx="25.5" stroke="#1B3A5A" stroke-opacity="0.85"/>
 
   <!-- Ambient glow -->
-  <ellipse cx="600" cy="104" rx="405" ry="82" fill="url(#softGlow)" filter="url(#blurGlow)">
+  <ellipse cx="600" cy="108" rx="405" ry="86" fill="url(#softGlow)" filter="url(#blurGlow)">
     <animate attributeName="opacity" values="0.5;0.88;0.5" dur="6s" repeatCount="indefinite"/>
   </ellipse>
 
   <!-- Title -->
   <text
     x="600"
-    y="78"
+    y="80"
     text-anchor="middle"
     fill="#EAF6FF"
     style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 26px; font-weight: 650; letter-spacing: 0.2px;"
@@ -77,7 +77,7 @@
   <!-- Subtitle -->
   <text
     x="600"
-    y="108"
+    y="112"
     text-anchor="middle"
     fill="#8FB9D8"
     style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; letter-spacing: 1px;"
@@ -88,7 +88,7 @@
   <!-- Main premium line -->
   <g filter="url(#lineGlow)">
     <path
-      d="M110 144 C220 128 315 152 420 142 C530 132 620 154 725 142 C830 130 930 151 1090 138"
+      d="M110 156 C220 140 315 164 420 154 C530 144 620 166 725 154 C830 142 930 163 1090 150"
       stroke="url(#lineGradient)"
       stroke-width="2.8"
       stroke-linecap="round"
@@ -107,7 +107,7 @@
 
   <!-- Soft secondary line -->
   <path
-    d="M130 158 C265 148 360 164 500 156 C640 148 760 166 920 154 C995 149 1045 148 1070 146"
+    d="M130 171 C265 161 360 177 500 169 C640 161 760 179 920 167 C995 162 1045 161 1070 159"
     stroke="url(#lineGradientSoft)"
     stroke-width="1.5"
     stroke-linecap="round"
@@ -126,7 +126,7 @@
 
   <!-- Fine accent line -->
   <path
-    d="M165 136 C300 141 395 131 525 138 C655 145 760 130 900 138 C980 143 1030 142 1055 141"
+    d="M165 146 C300 151 395 141 525 148 C655 155 760 140 900 148 C980 153 1030 152 1055 151"
     stroke="#7CC7FF"
     stroke-width="1"
     stroke-linecap="round"
@@ -142,7 +142,7 @@
       repeatCount="indefinite"
       keySplines="0.42 0 0.58 1"
       calcMode="spline"
-      path="M110 144 C220 128 315 152 420 142 C530 132 620 154 725 142 C830 130 930 151 1090 138"
+      path="M110 156 C220 140 315 164 420 154 C530 144 620 166 725 154 C830 142 930 163 1090 150"
     />
     <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/>
   </circle>
@@ -155,7 +155,7 @@
       repeatCount="indefinite"
       keySplines="0.42 0 0.58 1"
       calcMode="spline"
-      path="M130 158 C265 148 360 164 500 156 C640 148 760 166 920 154 C995 149 1045 148 1070 146"
+      path="M130 171 C265 161 360 177 500 169 C640 161 760 179 920 167 C995 162 1045 161 1070 159"
     />
     <animate attributeName="opacity" values="0;0.85;0.85;0" dur="10s" begin="1.6s" repeatCount="indefinite"/>
   </circle>
