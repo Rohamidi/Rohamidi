@@ -98,14 +98,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE%20VIEWS&color=7CC7FF&style=for-the-badge&abbreviated=true"
-    height="28"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 <p align="center">
