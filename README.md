@@ -18,21 +18,19 @@
 
 ## `~/stats`
 
-<table align="center" width="900">
+<table align="center" width="900" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="450" align="center">
+    <td width="450" align="center" valign="top">
       <img
-        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&rank_icon=github&line_height=26&custom_title=GitHub%20Stats&card_width=450"
-        width="450"
-        height="210"
+        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&rank_icon=github&line_height=28&custom_title=GitHub%20Stats&card_width=445"
+        width="445"
         alt="Rohamidi's GitHub Stats"
       />
     </td>
-    <td width="450" align="center">
+    <td width="450" align="center" valign="top">
       <img
-        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&langs_count=6&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&custom_title=Top%20Languages&card_width=450"
-        width="450"
-        height="210"
+        src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&langs_count=8&hide_border=false&border_radius=22&border_color=1B3A5A&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&custom_title=Top%20Languages&card_width=445"
+        width="445"
         alt="Top Languages"
       />
     </td>
