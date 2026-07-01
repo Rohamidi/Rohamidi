@@ -69,15 +69,41 @@
 ## `~/connect`
 
 <p align="center">
+  <sub>
+    <code>open to collaboration • software • AI • security • meaningful technology</code>
+  </sub>
+</p>
+
+<p align="center">
   <a href="mailto:rohamidi.it@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-060B18?style=for-the-badge&logo=gmail&logoColor=42A5F5" />
+    <img
+      src="https://img.shields.io/badge/Email-rohamidi.it%40gmail.com-0A1324?style=for-the-badge&logo=gmail&logoColor=7CC7FF&labelColor=050914"
+      height="36"
+      alt="Email"
+    />
   </a>
   <a href="https://www.linkedin.com/in/rohamidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-060B18?style=for-the-badge&logo=linkedin&logoColor=42A5F5" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Rohamidi-0A1324?style=for-the-badge&logo=linkedin&logoColor=7CC7FF&labelColor=050914"
+      height="36"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://t.me/Rohamidi">
-    <img src="https://img.shields.io/badge/Telegram-060B18?style=for-the-badge&logo=telegram&logoColor=42A5F5" />
+    <img
+      src="https://img.shields.io/badge/Telegram-%40Rohamidi-0A1324?style=for-the-badge&logo=telegram&logoColor=7CC7FF&labelColor=050914"
+      height="36"
+      alt="Telegram"
+    />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Rohamidi&label=PROFILE%20VIEWS&color=7CC7FF&style=for-the-badge&abbreviated=true"
+    height="28"
+    alt="Profile Views"
+  />
 </p>
 
 ---
