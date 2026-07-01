@@ -19,12 +19,23 @@
 ## `~/stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohamidi&show_icons=true&bg_color=060B18&title_color=42A5F5&text_color=90CAF9&icon_color=42A5F5&border_color=1565C0&border_radius=10&count_private=true&include_all_commits=true" height="175" alt="Rohamidi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&bg_color=060B18&title_color=42A5F5&text_color=90CAF9&border_color=1565C0&border_radius=10&langs_count=5" height="175" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&amp;show_icons=true&amp;bg_color=060B18&amp;title_color=42A5F5&amp;text_color=90CAF9&amp;icon_color=42A5F5&amp;border_color=1565C0&amp;border_radius=10&amp;count_private=true&amp;include_all_commits=true"
+    height="175"
+    alt="Rohamidi's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&amp;layout=compact&amp;bg_color=060B18&amp;title_color=42A5F5&amp;text_color=90CAF9&amp;border_color=1565C0&amp;border_radius=10&amp;langs_count=5"
+    height="175"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohamidi&background=060B18&border=1565C0&stroke=1565C0&ring=42A5F5&fire=29B6F6&currStreakNum=42A5F5&currStreakLabel=42A5F5&sideNums=90CAF9&sideLabels=90CAF9&dates=90CAF9&borderRadius=10" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Rohamidi&amp;background=060B18&amp;border=1565C0&amp;stroke=1565C0&amp;ring=42A5F5&amp;fire=29B6F6&amp;currStreakNum=42A5F5&amp;currStreakLabel=42A5F5&amp;sideNums=90CAF9&amp;sideLabels=90CAF9&amp;dates=90CAF9&amp;borderRadius=10"
+    alt="GitHub Streak"
+  />
 </p>
 
 ## `~/contributions`
