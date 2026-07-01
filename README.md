@@ -18,12 +18,15 @@
 
 ## `~/stats`
 
-<p align="center"><img src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=22&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&rank_icon=github&line_height=28&custom_title=GitHub%20Stats&card_width=450" width="450" alt="Rohamidi's GitHub Stats" /><img src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&langs_count=8&hide_border=true&border_radius=22&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&custom_title=Top%20Languages&card_width=450" width="450" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api?username=Rohamidi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=22&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&rank_icon=github&line_height=28&custom_title=GitHub%20Stats&card_width=450" width="49%" alt="Rohamidi's GitHub Stats" />
+  <img src="https://github-readme-stats-xl3z-i3xc29wuc-rohamidi85.vercel.app/api/top-langs/?username=Rohamidi&layout=compact&langs_count=8&hide_border=true&border_radius=22&bg_color=45,050914,0A1324&title_color=DFF3FF&text_color=BFD3E2&icon_color=7CC7FF&custom_title=Top%20Languages&card_width=450" width="49%" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Rohamidi&background=050914&border=050914&stroke=1B3A5A&ring=7CC7FF&fire=9CDCFE&currStreakNum=DFF3FF&currStreakLabel=9CDCFE&sideNums=BFD3E2&sideLabels=8FB9D8&dates=8FB9D8&border_radius=22"
-    width="900"
+    width="98%"
     alt="GitHub Streak"
   />
 </p>
