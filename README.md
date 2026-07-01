@@ -58,7 +58,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Rohamidi&amp;theme=algolia&amp;column=4&amp;row=2&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true&amp;no-frame=true"
+    src="https://github-trophies.devomb.com/?username=Rohamidi&amp;theme=algolia&amp;column=4&amp;row=2&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true&amp;no-frame=true"
     width="748"
     alt="GitHub Achievements"
   />
