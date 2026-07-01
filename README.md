@@ -46,7 +46,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Rohamidi/Rohamidi/output/github-contribution-grid-snake-dark.svg?v=2"
     width="748"
     alt="Contribution Snake"
   />
